@@ -1,0 +1,1501 @@
+brand,model,manufacturing_year,vehicle_age_years,km_driven,transmission,fuel_type,owner_type,selling_price_inr
+Tata,Harrier,2022,4,24731,Manual,Petrol,First,886000
+Hyundai,Verna,2022,4,54055,Manual,Diesel,First,614000
+Hyundai,Creta,2021,5,75819,Manual,Petrol,First,560000
+Renault,Kiger,2015,11,149487,Manual,Petrol,Fourth+,98000
+Maruti Suzuki,Brezza,2018,8,75001,Manual,Electric,First,366000
+Maruti Suzuki,Dzire,2021,5,69088,Automatic,Diesel,First,370000
+Kia,Sonet,2015,11,117425,Manual,Petrol,Second,202000
+Maruti Suzuki,Swift,2015,11,106629,Manual,Petrol,First,235000
+Mahindra,XUV700,2025,1,1000,Automatic,Petrol,First,1530000
+Toyota,Etios,2015,11,104759,Manual,Petrol,First,306000
+Maruti Suzuki,Dzire,2024,2,30592,Manual,Petrol,First,713000
+Maruti Suzuki,Swift,2017,9,100620,Automatic,Petrol,First,209000
+Tata,Nexon,2018,8,96939,Manual,Diesel,Second,427000
+Toyota,Glanza,2019,7,78653,Manual,Petrol,First,789000
+Maruti Suzuki,Wagon R,2011,15,162635,Manual,Petrol,First,136000
+Maruti Suzuki,Baleno,2013,13,156032,Automatic,Petrol,First,253000
+Mahindra,Scorpio,2014,12,149138,Manual,Petrol,Second,149000
+Hyundai,Creta,2021,5,42153,Automatic,Petrol,First,680000
+Mahindra,XUV700,2010,16,205709,Automatic,Petrol,First,159000
+Maruti Suzuki,Brezza,2022,4,50594,Manual,CNG,First,412000
+Renault,Kiger,2012,14,174115,Manual,Petrol,Second,89000
+Maruti Suzuki,Baleno,2017,9,111188,Manual,Petrol,First,300000
+Maruti Suzuki,Brezza,2017,9,118382,Manual,CNG,First,202000
+Maruti Suzuki,Swift,2011,15,166696,Manual,Petrol,Second,99000
+Honda,Amaze,2013,13,163055,Manual,Electric,First,146000
+Kia,Sonet,2022,4,66376,Manual,Petrol,First,566000
+Maruti Suzuki,Wagon R,2014,12,154602,Automatic,Diesel,First,175000
+Hyundai,Grand i10,2016,10,102974,Manual,Diesel,First,230000
+Kia,Carens,2015,11,142797,Manual,Petrol,First,206000
+Maruti Suzuki,Baleno,2023,3,44482,Automatic,Petrol,Third,624000
+Hyundai,Creta,2021,5,88223,Manual,Diesel,Second,537000
+Hyundai,Verna,2016,10,99808,Manual,Diesel,Second,247000
+Hyundai,Venue,2024,2,43125,Manual,Diesel,First,875000
+Kia,Seltos,2017,9,128664,Automatic,Petrol,Second,432000
+Mahindra,XUV500,2025,1,1000,Manual,Diesel,First,1522000
+Renault,Triber,2024,2,12647,Manual,Diesel,First,651000
+Maruti Suzuki,Baleno,2023,3,33695,Manual,Petrol,First,670000
+Tata,Tiago,2023,3,38545,Manual,Diesel,First,675000
+Toyota,Glanza,2012,14,181583,Manual,Petrol,First,236000
+Toyota,Etios,2011,15,190341,Manual,Petrol,First,106000
+Kia,Seltos,2018,8,75835,Manual,Diesel,First,724000
+Tata,Tiago,2018,8,78459,Manual,Petrol,First,343000
+Maruti Suzuki,Dzire,2025,1,1662,Manual,CNG,First,695000
+Hyundai,i20,2022,4,1157,Automatic,Diesel,Second,830000
+Maruti Suzuki,Brezza,2020,6,81945,Manual,Petrol,Second,296000
+Maruti Suzuki,Wagon R,2013,13,178353,Manual,Electric,Second,166000
+Renault,Kiger,2025,1,33435,Automatic,Diesel,First,695000
+Tata,Tiago,2011,15,146189,Automatic,Petrol,First,110000
+Hyundai,Verna,2017,9,145817,Manual,Diesel,Second,196000
+Honda,WR-V,2024,2,19832,Manual,Diesel,First,721000
+Hyundai,Venue,2015,11,145129,Automatic,Diesel,First,193000
+Renault,Kiger,2020,6,69449,Manual,Petrol,First,370000
+Maruti Suzuki,Wagon R,2012,14,171455,Manual,Petrol,First,145000
+Hyundai,Verna,2017,9,110502,Manual,CNG,First,289000
+Maruti Suzuki,Baleno,2014,12,139659,Manual,Petrol,First,183000
+Honda,WR-V,2013,13,167533,Automatic,Petrol,First,142000
+Maruti Suzuki,Wagon R,2017,9,97193,Manual,Diesel,First,387000
+Mahindra,XUV500,2010,16,189284,Manual,Petrol,Second,160000
+Honda,Amaze,2022,4,35777,Manual,Petrol,Third,551000
+Tata,Punch,2018,8,84654,Automatic,Diesel,First,574000
+Tata,Nexon,2011,15,200287,Automatic,Petrol,Second,133000
+Maruti Suzuki,Wagon R,2014,12,119305,Automatic,Diesel,Second,239000
+Tata,Punch,2025,1,7106,Manual,Diesel,First,1313000
+Hyundai,Verna,2014,12,124503,Automatic,Petrol,Second,172000
+Kia,Carens,2022,4,57701,Manual,Petrol,Second,637000
+Tata,Punch,2016,10,150396,Automatic,Petrol,First,318000
+Maruti Suzuki,Brezza,2025,1,26590,Automatic,Diesel,First,653000
+Kia,Seltos,2016,10,102319,Manual,Diesel,First,489000
+Maruti Suzuki,Baleno,2013,13,172734,Manual,Petrol,Second,146000
+Mahindra,XUV500,2014,12,163040,Manual,Petrol,First,315000
+Honda,WR-V,2010,16,208137,Automatic,CNG,Second,81000
+Mahindra,Scorpio,2021,5,52444,Manual,Petrol,Third,449000
+Honda,WR-V,2017,9,99707,Automatic,Diesel,First,280000
+Kia,Seltos,2022,4,32689,Manual,Petrol,Fourth+,865000
+Hyundai,i20,2021,5,44986,Manual,Diesel,First,700000
+Hyundai,i20,2025,1,15822,Automatic,Petrol,Second,1269000
+Tata,Harrier,2021,5,58579,Automatic,Petrol,Second,617000
+Kia,Carens,2019,7,103109,Manual,Diesel,First,429000
+Maruti Suzuki,Swift,2014,12,144249,Automatic,Diesel,First,166000
+Honda,WR-V,2017,9,119041,Automatic,Petrol,First,265000
+Renault,Kwid,2024,2,38743,Manual,Diesel,First,822000
+Honda,Jazz,2014,12,139108,Manual,Petrol,First,251000
+Mahindra,XUV700,2024,2,1000,Manual,Electric,First,1677000
+Maruti Suzuki,Baleno,2016,10,140485,Manual,Petrol,First,239000
+Honda,WR-V,2010,16,193984,Manual,Diesel,First,98000
+Renault,Triber,2018,8,82106,Manual,Diesel,Third,228000
+Tata,Harrier,2018,8,66632,Automatic,CNG,Second,385000
+Mahindra,Bolero,2020,6,1531,Manual,Petrol,First,1003000
+Honda,WR-V,2023,3,46962,Manual,Diesel,First,649000
+Maruti Suzuki,Wagon R,2020,6,76535,Manual,Petrol,First,534000
+Maruti Suzuki,Wagon R,2019,7,69617,Automatic,CNG,First,367000
+Hyundai,Venue,2011,15,210461,Manual,Petrol,First,102000
+Hyundai,Creta,2019,7,61574,Manual,Diesel,First,596000
+Maruti Suzuki,Swift,2010,16,187996,Manual,Electric,First,104000
+Tata,Tiago,2024,2,23337,Manual,Petrol,Second,588000
+Maruti Suzuki,Brezza,2016,10,131529,Manual,Petrol,First,172000
+Renault,Kiger,2015,11,142786,Manual,Diesel,Third,120000
+Kia,Sonet,2012,14,175664,Manual,Diesel,First,187000
+Renault,Triber,2019,7,40347,Manual,Diesel,First,321000
+Mahindra,XUV500,2018,8,91603,Manual,Petrol,First,548000
+Hyundai,Verna,2017,9,81799,Manual,Diesel,First,472000
+Hyundai,Creta,2010,16,198361,Manual,Hybrid,First,130000
+Hyundai,Venue,2011,15,133748,Manual,Petrol,Second,121000
+Hyundai,Grand i10,2021,5,62912,Automatic,Diesel,First,657000
+Maruti Suzuki,Swift,2021,5,96501,Manual,Petrol,Second,354000
+Mahindra,Scorpio,2023,3,13272,Automatic,Diesel,First,1089000
+Mahindra,XUV700,2018,8,93710,Automatic,Petrol,Second,597000
+Hyundai,Venue,2010,16,193391,Manual,CNG,Second,77000
+Maruti Suzuki,Baleno,2023,3,52209,Manual,CNG,First,699000
+Hyundai,i20,2021,5,33700,Manual,Petrol,Second,677000
+Kia,Sonet,2018,8,100084,Automatic,Petrol,First,397000
+Tata,Altroz,2022,4,71595,Manual,Diesel,First,701000
+Maruti Suzuki,Dzire,2024,2,1000,Manual,Petrol,First,757000
+Mahindra,Bolero,2024,2,32994,Manual,Petrol,First,1441000
+Kia,Seltos,2015,11,151353,Manual,Petrol,First,294000
+Maruti Suzuki,Swift,2013,13,167213,Manual,CNG,First,107000
+Maruti Suzuki,Wagon R,2019,7,101428,Manual,Petrol,Second,347000
+Maruti Suzuki,Swift,2017,9,126148,Automatic,Diesel,First,216000
+Hyundai,Grand i10,2024,2,27914,Manual,Petrol,First,818000
+Hyundai,Creta,2014,12,172699,Automatic,Electric,Third,209000
+Maruti Suzuki,Dzire,2012,14,156870,Manual,Petrol,Third,82000
+Hyundai,Venue,2021,5,68058,Manual,Diesel,First,395000
+Maruti Suzuki,Baleno,2025,1,1000,Manual,Diesel,First,995000
+Hyundai,Venue,2021,5,30365,Manual,Petrol,First,591000
+Maruti Suzuki,Brezza,2010,16,192467,Manual,CNG,First,73000
+Maruti Suzuki,Dzire,2021,5,46346,Automatic,CNG,First,459000
+Mahindra,XUV500,2019,7,118725,Manual,Petrol,First,568000
+Maruti Suzuki,Baleno,2012,14,156576,Manual,Petrol,First,125000
+Honda,City,2017,9,119513,Manual,CNG,First,228000
+Maruti Suzuki,Brezza,2017,9,147170,Automatic,Petrol,First,193000
+Renault,Triber,2022,4,17060,Automatic,Petrol,Second,473000
+Tata,Tiago,2013,13,120590,Automatic,Diesel,Third,95000
+Tata,Nexon,2010,16,197993,Automatic,Diesel,First,172000
+Renault,Kwid,2012,14,194101,Manual,Diesel,First,92000
+Hyundai,Creta,2023,3,3648,Automatic,Petrol,First,1003000
+Maruti Suzuki,Wagon R,2016,10,124471,Manual,Petrol,First,249000
+Hyundai,Verna,2020,6,60054,Automatic,Petrol,First,679000
+Honda,Jazz,2012,14,133974,Manual,Petrol,Second,161000
+Toyota,Etios,2010,16,233288,Manual,Petrol,Third,74000
+Mahindra,XUV500,2018,8,84893,Automatic,Petrol,First,592000
+Hyundai,i20,2012,14,135002,Automatic,Diesel,First,185000
+Renault,Kiger,2010,16,189054,Automatic,CNG,Second,70000
+Renault,Triber,2016,10,96208,Automatic,CNG,Fourth+,134000
+Mahindra,XUV700,2017,9,119695,Automatic,Diesel,Third,412000
+Toyota,Etios,2010,16,187446,Manual,Petrol,Second,101000
+Tata,Punch,2018,8,109569,Manual,Petrol,Third,249000
+Renault,Kwid,2024,2,23360,Manual,Diesel,Second,596000
+Toyota,Fortuner,2015,11,117035,Manual,Petrol,First,345000
+Maruti Suzuki,Baleno,2024,2,2532,Manual,Petrol,First,914000
+Maruti Suzuki,Wagon R,2010,16,205607,Manual,Petrol,First,107000
+Hyundai,Creta,2022,4,57666,Manual,Petrol,First,713000
+Hyundai,i20,2025,1,13001,Manual,Diesel,First,1194000
+Honda,City,2010,16,188002,Manual,Petrol,First,92000
+Kia,Carens,2025,1,16645,Automatic,Petrol,First,1223000
+Kia,Seltos,2016,10,122273,Manual,Petrol,First,311000
+Tata,Tiago,2025,1,13877,Manual,Diesel,Second,840000
+Honda,City,2024,2,14592,Automatic,CNG,First,716000
+Toyota,Innova,2017,9,116523,Automatic,Petrol,First,521000
+Mahindra,Bolero,2015,11,127472,Automatic,Petrol,First,354000
+Kia,Carens,2018,8,111299,Manual,Petrol,First,308000
+Honda,Jazz,2014,12,134264,Manual,Petrol,First,205000
+Kia,Seltos,2014,12,128004,Manual,Petrol,Second,325000
+Hyundai,Venue,2018,8,93101,Manual,CNG,Second,270000
+Tata,Punch,2017,9,102557,Manual,Diesel,Second,318000
+Kia,Sonet,2025,1,3016,Manual,Diesel,Second,1263000
+Hyundai,Venue,2013,13,128761,Manual,Petrol,Second,117000
+Maruti Suzuki,Brezza,2020,6,69810,Manual,Diesel,First,394000
+Maruti Suzuki,Brezza,2010,16,195666,Automatic,Petrol,First,70000
+Honda,WR-V,2023,3,8504,Automatic,Electric,Second,819000
+Kia,Carens,2021,5,85548,Manual,Petrol,First,441000
+Maruti Suzuki,Baleno,2012,14,200330,Manual,Petrol,Third,117000
+Renault,Triber,2011,15,171519,Manual,Petrol,First,105000
+Kia,Sonet,2022,4,73684,Automatic,Petrol,First,536000
+Honda,WR-V,2011,15,185898,Manual,Diesel,First,114000
+Maruti Suzuki,Swift,2021,5,53185,Manual,CNG,Third,255000
+Hyundai,Creta,2019,7,115751,Automatic,Petrol,First,307000
+Maruti Suzuki,Swift,2023,3,47269,Automatic,Diesel,First,570000
+Tata,Altroz,2022,4,46640,Automatic,Petrol,Fourth+,654000
+Mahindra,XUV500,2013,13,142850,Automatic,Hybrid,First,433000
+Honda,Amaze,2014,12,189046,Automatic,Diesel,First,156000
+Honda,City,2013,13,152631,Automatic,Petrol,Third,124000
+Maruti Suzuki,Dzire,2023,3,20177,Automatic,CNG,Third,462000
+Tata,Punch,2018,8,86871,Automatic,Diesel,First,625000
+Mahindra,XUV500,2022,4,58975,Manual,Petrol,Second,744000
+Maruti Suzuki,Swift,2021,5,68572,Manual,Petrol,Second,383000
+Tata,Punch,2025,1,28960,Automatic,Diesel,First,1316000
+Maruti Suzuki,Brezza,2018,8,116945,Manual,Hybrid,First,298000
+Maruti Suzuki,Baleno,2010,16,220825,Automatic,Electric,Third,91000
+Mahindra,Bolero,2021,5,45219,Manual,Diesel,First,1230000
+Toyota,Innova,2011,15,209104,Manual,Petrol,Fourth+,145000
+Tata,Harrier,2020,6,79789,Manual,Petrol,Second,434000
+Maruti Suzuki,Baleno,2016,10,115322,Manual,Diesel,First,393000
+Hyundai,i20,2025,1,42118,Manual,Hybrid,Second,947000
+Hyundai,i20,2022,4,46883,Manual,Petrol,Second,717000
+Honda,WR-V,2013,13,176501,Manual,Diesel,Second,162000
+Hyundai,Verna,2015,11,112882,Manual,Petrol,First,257000
+Mahindra,XUV500,2017,9,95871,Automatic,Diesel,First,550000
+Tata,Punch,2017,9,111193,Manual,Petrol,Second,282000
+Honda,City,2025,1,20838,Manual,Petrol,Second,926000
+Maruti Suzuki,Baleno,2021,5,42378,Manual,Petrol,Third,480000
+Hyundai,i20,2011,15,185228,Manual,Electric,Second,157000
+Renault,Kiger,2023,3,39297,Manual,Petrol,First,533000
+Hyundai,Venue,2023,3,33983,Manual,CNG,Second,471000
+Mahindra,Scorpio,2024,2,33490,Manual,Petrol,First,821000
+Maruti Suzuki,Baleno,2010,16,184842,Manual,CNG,Second,91000
+Toyota,Etios,2016,10,116898,Manual,Diesel,First,381000
+Kia,Sonet,2020,6,108003,Manual,Electric,Second,517000
+Mahindra,XUV500,2025,1,13846,Manual,CNG,Second,1490000
+Maruti Suzuki,Swift,2015,11,125902,Automatic,Petrol,Second,150000
+Kia,Seltos,2011,15,159022,Manual,CNG,First,185000
+Maruti Suzuki,Dzire,2014,12,162817,Manual,Diesel,First,160000
+Hyundai,Creta,2022,4,34630,Manual,Petrol,Second,632000
+Honda,Jazz,2024,2,1000,Automatic,CNG,First,1095000
+Maruti Suzuki,Baleno,2019,7,95929,Automatic,Diesel,First,526000
+Hyundai,i20,2010,16,160839,Manual,Electric,First,175000
+Toyota,Glanza,2014,12,143221,Automatic,CNG,First,325000
+Maruti Suzuki,Dzire,2020,6,74655,Manual,CNG,First,255000
+Hyundai,i20,2011,15,169955,Manual,Petrol,Second,122000
+Maruti Suzuki,Wagon R,2016,10,84597,Manual,Petrol,First,348000
+Maruti Suzuki,Wagon R,2014,12,189241,Manual,Electric,Third,151000
+Maruti Suzuki,Dzire,2017,9,102004,Manual,Petrol,First,167000
+Tata,Nexon,2020,6,68056,Manual,CNG,First,561000
+Tata,Nexon,2013,13,168752,Manual,Diesel,Second,153000
+Maruti Suzuki,Swift,2015,11,126245,Manual,Diesel,Second,165000
+Mahindra,XUV500,2023,3,1000,Manual,Diesel,First,2211000
+Maruti Suzuki,Baleno,2025,1,1000,Manual,Diesel,Second,1190000
+Tata,Altroz,2017,9,116749,Manual,Diesel,First,307000
+Maruti Suzuki,Baleno,2021,5,50616,Manual,Petrol,First,678000
+Toyota,Innova,2020,6,70064,Manual,Petrol,First,675000
+Maruti Suzuki,Dzire,2022,4,21085,Manual,Diesel,First,429000
+Tata,Nexon,2025,1,12118,Manual,Petrol,Second,1108000
+Kia,Seltos,2012,14,178637,Manual,Petrol,Second,210000
+Kia,Seltos,2014,12,154485,Automatic,Petrol,Second,290000
+Toyota,Glanza,2025,1,4708,Automatic,Petrol,First,1922000
+Mahindra,XUV500,2025,1,10025,Manual,Diesel,First,2250000
+Honda,WR-V,2022,4,59330,Manual,Petrol,Second,629000
+Hyundai,Verna,2025,1,5570,Manual,Petrol,First,948000
+Hyundai,Grand i10,2015,11,151155,Manual,Diesel,First,222000
+Hyundai,i20,2012,14,193495,Automatic,Electric,First,154000
+Honda,City,2019,7,88048,Manual,Petrol,First,388000
+Maruti Suzuki,Swift,2024,2,13909,Manual,Diesel,First,791000
+Mahindra,XUV500,2021,5,60211,Manual,Diesel,Second,1293000
+Honda,WR-V,2020,6,59994,Manual,Diesel,First,517000
+Mahindra,Bolero,2015,11,101406,Manual,Petrol,Second,399000
+Toyota,Fortuner,2015,11,108883,Automatic,Petrol,Second,400000
+Toyota,Fortuner,2022,4,23097,Manual,Petrol,First,1009000
+Hyundai,i20,2018,8,106193,Automatic,CNG,First,331000
+Tata,Altroz,2017,9,95939,Manual,Petrol,First,391000
+Hyundai,i20,2018,8,101331,Manual,Petrol,Fourth+,286000
+Hyundai,Grand i10,2020,6,101744,Manual,Diesel,First,433000
+Toyota,Innova,2016,10,116120,Manual,Diesel,Second,366000
+Hyundai,Venue,2012,14,148668,Manual,Petrol,First,126000
+Tata,Tiago,2017,9,119875,Manual,Petrol,Third,176000
+Tata,Tiago,2014,12,160707,Manual,Petrol,Fourth+,109000
+Hyundai,i20,2015,11,163620,Automatic,CNG,First,243000
+Hyundai,Creta,2014,12,180655,Manual,Petrol,Second,141000
+Hyundai,Venue,2010,16,222472,Manual,CNG,First,70000
+Mahindra,Scorpio,2017,9,97624,Manual,CNG,Second,297000
+Kia,Sonet,2021,5,32046,Manual,Petrol,Second,692000
+Maruti Suzuki,Wagon R,2014,12,176519,Automatic,Diesel,First,183000
+Maruti Suzuki,Wagon R,2015,11,153968,Automatic,Petrol,First,212000
+Kia,Sonet,2012,14,152757,Manual,Petrol,Fourth+,123000
+Renault,Kwid,2011,15,151822,Manual,Diesel,First,105000
+Hyundai,Venue,2020,6,57298,Automatic,Petrol,Third,316000
+Tata,Nexon,2024,2,53754,Automatic,Diesel,First,1140000
+Mahindra,XUV500,2019,7,91900,Manual,Diesel,First,653000
+Maruti Suzuki,Brezza,2010,16,223348,Manual,CNG,First,70000
+Toyota,Fortuner,2023,3,43312,Automatic,Petrol,Third,1017000
+Maruti Suzuki,Baleno,2015,11,149241,Manual,Petrol,Second,203000
+Honda,WR-V,2015,11,99741,Manual,Petrol,Second,211000
+Toyota,Fortuner,2024,2,9035,Manual,Petrol,First,1805000
+Hyundai,Grand i10,2018,8,77445,Manual,Petrol,First,313000
+Mahindra,XUV500,2019,7,63456,Manual,Electric,First,1011000
+Mahindra,Scorpio,2014,12,137425,Manual,Petrol,First,199000
+Maruti Suzuki,Dzire,2023,3,34687,Automatic,Petrol,Second,510000
+Hyundai,Venue,2018,8,96053,Manual,Diesel,First,307000
+Tata,Harrier,2023,3,10957,Manual,Diesel,Second,961000
+Renault,Kwid,2023,3,41792,Automatic,Diesel,First,674000
+Renault,Kwid,2019,7,109093,Automatic,Diesel,First,333000
+Hyundai,i20,2020,6,86094,Manual,Petrol,First,521000
+Tata,Nexon,2024,2,14401,Manual,Petrol,First,1038000
+Hyundai,Grand i10,2017,9,77021,Automatic,Petrol,First,279000
+Maruti Suzuki,Wagon R,2021,5,61003,Automatic,Petrol,First,581000
+Maruti Suzuki,Baleno,2023,3,35347,Manual,Diesel,First,953000
+Hyundai,Grand i10,2015,11,140885,Manual,Petrol,First,194000
+Mahindra,Bolero,2022,4,24652,Manual,Petrol,Third,1039000
+Hyundai,i20,2016,10,107298,Manual,Diesel,First,332000
+Maruti Suzuki,Swift,2010,16,174046,Manual,Diesel,Second,95000
+Toyota,Fortuner,2013,13,168179,Automatic,Diesel,First,292000
+Kia,Carens,2021,5,27602,Manual,Petrol,Third,674000
+Toyota,Etios,2016,10,104740,Manual,Electric,First,402000
+Hyundai,Verna,2012,14,169885,Automatic,Petrol,Second,124000
+Hyundai,Creta,2025,1,3084,Manual,Petrol,First,1048000
+Maruti Suzuki,Baleno,2013,13,165306,Automatic,Petrol,First,195000
+Maruti Suzuki,Dzire,2013,13,114563,Manual,Electric,Fourth+,118000
+Mahindra,Bolero,2022,4,35899,Manual,Electric,Second,1413000
+Hyundai,Grand i10,2024,2,24692,Automatic,Diesel,First,982000
+Hyundai,Venue,2017,9,83149,Manual,Diesel,First,321000
+Mahindra,XUV500,2022,4,24457,Manual,Petrol,Third,865000
+Maruti Suzuki,Baleno,2011,15,197251,Manual,Diesel,First,113000
+Toyota,Innova,2014,12,156335,Manual,Petrol,First,232000
+Hyundai,Venue,2019,7,90463,Manual,Petrol,Second,311000
+Maruti Suzuki,Baleno,2013,13,176168,Automatic,Petrol,Third,159000
+Hyundai,Creta,2024,2,47784,Manual,Petrol,Third,709000
+Kia,Sonet,2022,4,81717,Manual,Petrol,First,542000
+Maruti Suzuki,Baleno,2023,3,18000,Manual,Petrol,First,720000
+Maruti Suzuki,Baleno,2014,12,157547,Manual,Petrol,Second,177000
+Tata,Harrier,2010,16,198718,Manual,Petrol,Second,107000
+Maruti Suzuki,Wagon R,2014,12,142282,Manual,CNG,First,174000
+Honda,WR-V,2016,10,128337,Manual,Diesel,Second,224000
+Maruti Suzuki,Baleno,2021,5,29519,Manual,Petrol,First,650000
+Tata,Altroz,2023,3,45511,Manual,Diesel,First,859000
+Maruti Suzuki,Baleno,2024,2,3412,Automatic,CNG,First,771000
+Hyundai,Creta,2015,11,138387,Manual,Diesel,Second,247000
+Hyundai,Creta,2025,1,1000,Manual,Petrol,First,1269000
+Hyundai,Creta,2014,12,138390,Manual,Petrol,Second,200000
+Hyundai,Grand i10,2022,4,70029,Manual,Petrol,Third,457000
+Maruti Suzuki,Dzire,2010,16,186394,Automatic,Petrol,Second,70000
+Renault,Triber,2023,3,60354,Automatic,Diesel,Second,468000
+Honda,Amaze,2023,3,10116,Manual,Petrol,First,721000
+Renault,Triber,2015,11,132945,Manual,Petrol,Third,117000
+Tata,Tiago,2016,10,135329,Manual,Petrol,Fourth+,121000
+Hyundai,Venue,2014,12,132433,Automatic,Petrol,First,189000
+Maruti Suzuki,Wagon R,2021,5,33698,Manual,Diesel,First,629000
+Honda,Jazz,2010,16,182020,Manual,Petrol,First,154000
+Maruti Suzuki,Wagon R,2013,13,150183,Automatic,Diesel,First,179000
+Maruti Suzuki,Brezza,2021,5,69639,Manual,Diesel,First,452000
+Kia,Sonet,2025,1,5801,Automatic,Petrol,First,1562000
+Maruti Suzuki,Baleno,2025,1,1000,Automatic,Petrol,First,1186000
+Maruti Suzuki,Baleno,2023,3,1000,Manual,Petrol,Second,691000
+Hyundai,i20,2022,4,35330,Automatic,Petrol,Second,618000
+Mahindra,XUV700,2010,16,177298,Manual,Petrol,Second,149000
+Tata,Harrier,2021,5,64964,Manual,CNG,Second,533000
+Hyundai,Verna,2025,1,6703,Manual,Petrol,Second,897000
+Tata,Punch,2016,10,100934,Automatic,Diesel,Second,358000
+Kia,Seltos,2017,9,135062,Automatic,Petrol,First,476000
+Hyundai,Grand i10,2025,1,17317,Manual,Petrol,First,757000
+Maruti Suzuki,Swift,2016,10,115789,Manual,Diesel,First,228000
+Tata,Tiago,2011,15,195999,Automatic,Diesel,First,96000
+Tata,Nexon,2016,10,85002,Manual,Diesel,Second,449000
+Kia,Sonet,2011,15,214962,Manual,Petrol,First,131000
+Mahindra,Bolero,2023,3,30780,Manual,Diesel,Second,1252000
+Honda,WR-V,2024,2,63838,Manual,Petrol,First,706000
+Maruti Suzuki,Dzire,2024,2,26515,Manual,Petrol,First,721000
+Hyundai,Venue,2015,11,136607,Manual,Hybrid,First,268000
+Maruti Suzuki,Wagon R,2018,8,114198,Manual,Diesel,Second,307000
+Hyundai,Creta,2017,9,94337,Manual,Petrol,First,317000
+Maruti Suzuki,Brezza,2012,14,152267,Manual,Petrol,Second,126000
+Maruti Suzuki,Brezza,2018,8,104512,Automatic,Hybrid,First,310000
+Honda,City,2022,4,62218,Manual,Diesel,First,503000
+Hyundai,Creta,2012,14,149788,Manual,Petrol,First,182000
+Hyundai,Grand i10,2025,1,45182,Manual,Petrol,First,899000
+Honda,WR-V,2016,10,145026,Manual,CNG,First,172000
+Hyundai,Venue,2022,4,43407,Manual,Petrol,First,523000
+Maruti Suzuki,Wagon R,2024,2,32473,Manual,Diesel,Second,938000
+Mahindra,XUV500,2010,16,169489,Manual,Petrol,Second,191000
+Honda,WR-V,2024,2,9718,Manual,Petrol,First,631000
+Maruti Suzuki,Brezza,2022,4,37518,Manual,Diesel,First,493000
+Kia,Sonet,2014,12,117073,Manual,CNG,Fourth+,155000
+Maruti Suzuki,Swift,2017,9,88044,Manual,Petrol,Second,199000
+Hyundai,Creta,2025,1,1000,Manual,Petrol,Third,816000
+Kia,Sonet,2025,1,22334,Manual,Petrol,Second,1145000
+Maruti Suzuki,Swift,2010,16,196759,Manual,Diesel,First,101000
+Hyundai,i20,2023,3,52761,Automatic,Electric,First,1132000
+Maruti Suzuki,Brezza,2010,16,173170,Automatic,Petrol,First,97000
+Maruti Suzuki,Brezza,2022,4,24956,Manual,Diesel,First,480000
+Tata,Punch,2022,4,65573,Automatic,Diesel,Second,735000
+Renault,Kiger,2013,13,146848,Automatic,Petrol,First,116000
+Hyundai,Venue,2025,1,8427,Manual,Diesel,First,1119000
+Tata,Altroz,2020,6,100574,Manual,Diesel,First,502000
+Toyota,Etios,2013,13,168979,Manual,CNG,First,166000
+Mahindra,Bolero,2017,9,124130,Manual,Petrol,Second,511000
+Tata,Altroz,2021,5,65065,Manual,Petrol,First,639000
+Toyota,Glanza,2012,14,177856,Manual,Petrol,First,197000
+Tata,Nexon,2015,11,147602,Automatic,Petrol,Second,227000
+Renault,Kiger,2014,12,127339,Manual,Petrol,First,131000
+Tata,Tiago,2020,6,83283,Manual,CNG,First,264000
+Toyota,Glanza,2019,7,99283,Manual,Petrol,First,829000
+Hyundai,Verna,2017,9,110898,Manual,Diesel,First,338000
+Hyundai,Verna,2015,11,162591,Manual,Petrol,Second,158000
+Maruti Suzuki,Swift,2011,15,215797,Manual,Diesel,Second,86000
+Hyundai,Verna,2013,13,166637,Manual,Diesel,Third,133000
+Maruti Suzuki,Dzire,2015,11,143479,Manual,Electric,Second,122000
+Tata,Punch,2018,8,112196,Manual,Diesel,Second,308000
+Maruti Suzuki,Baleno,2011,15,205229,Manual,Petrol,First,107000
+Toyota,Etios,2018,8,62057,Manual,Diesel,First,428000
+Tata,Altroz,2010,16,199256,Manual,Petrol,First,128000
+Hyundai,Venue,2014,12,132239,Manual,Petrol,First,141000
+Tata,Nexon,2020,6,63964,Manual,Diesel,Second,559000
+Tata,Tiago,2024,2,15392,Automatic,Petrol,First,681000
+Honda,WR-V,2018,8,96667,Manual,Petrol,First,267000
+Maruti Suzuki,Swift,2016,10,125912,Manual,Diesel,Second,189000
+Mahindra,Bolero,2011,15,185821,Manual,CNG,First,181000
+Kia,Seltos,2017,9,120343,Manual,Diesel,Second,443000
+Maruti Suzuki,Brezza,2022,4,41168,Manual,Petrol,First,478000
+Honda,Amaze,2020,6,99900,Manual,Petrol,Second,323000
+Honda,City,2023,3,45875,Automatic,Electric,First,724000
+Maruti Suzuki,Baleno,2011,15,190038,Manual,Petrol,First,118000
+Tata,Nexon,2020,6,88529,Manual,Diesel,First,589000
+Maruti Suzuki,Swift,2021,5,54997,Manual,Diesel,First,510000
+Tata,Nexon,2013,13,156361,Automatic,Diesel,First,224000
+Tata,Punch,2024,2,53348,Manual,Petrol,Second,934000
+Renault,Kwid,2013,13,136871,Manual,Diesel,First,141000
+Renault,Triber,2013,13,157092,Manual,Diesel,First,100000
+Honda,City,2019,7,70818,Manual,Hybrid,First,391000
+Hyundai,i20,2025,1,26066,Manual,Petrol,Third,872000
+Maruti Suzuki,Swift,2012,14,171691,Manual,CNG,First,93000
+Toyota,Fortuner,2011,15,182736,Manual,CNG,First,165000
+Toyota,Fortuner,2017,9,126392,Manual,Diesel,First,582000
+Honda,City,2016,10,125678,Manual,Petrol,Second,175000
+Tata,Tiago,2016,10,96358,Manual,Petrol,Third,192000
+Toyota,Etios,2016,10,101240,Automatic,Petrol,First,328000
+Hyundai,Verna,2015,11,121478,Manual,Electric,Second,273000
+Kia,Sonet,2022,4,21884,Manual,Diesel,Third,528000
+Hyundai,Grand i10,2018,8,91296,Manual,Diesel,First,304000
+Maruti Suzuki,Swift,2022,4,59751,Manual,CNG,Second,482000
+Tata,Tiago,2016,10,100367,Manual,Petrol,First,174000
+Hyundai,Creta,2021,5,58692,Manual,Diesel,Third,577000
+Honda,WR-V,2018,8,117711,Manual,Diesel,Second,272000
+Tata,Harrier,2023,3,24138,Manual,Petrol,First,876000
+Maruti Suzuki,Brezza,2018,8,97795,Manual,Diesel,Second,274000
+Maruti Suzuki,Brezza,2015,11,100472,Automatic,Petrol,First,181000
+Maruti Suzuki,Wagon R,2020,6,69404,Manual,Petrol,First,477000
+Tata,Harrier,2011,15,184982,Automatic,CNG,First,145000
+Kia,Carens,2011,15,228081,Manual,Petrol,Second,97000
+Honda,City,2017,9,108155,Manual,CNG,Second,230000
+Kia,Carens,2019,7,84221,Manual,Diesel,Second,398000
+Kia,Sonet,2010,16,170674,Manual,Petrol,First,117000
+Honda,WR-V,2017,9,82300,Manual,Petrol,Second,263000
+Maruti Suzuki,Brezza,2021,5,64529,Automatic,CNG,First,404000
+Maruti Suzuki,Brezza,2011,15,182152,Automatic,Diesel,First,95000
+Renault,Triber,2018,8,92506,Manual,CNG,Second,204000
+Renault,Kwid,2012,14,176055,Manual,Petrol,Third,73000
+Tata,Tiago,2019,7,96309,Manual,Diesel,First,242000
+Tata,Altroz,2016,10,155164,Manual,Petrol,First,217000
+Honda,WR-V,2025,1,14899,Manual,Petrol,First,920000
+Tata,Harrier,2024,2,24767,Automatic,Hybrid,First,1222000
+Hyundai,Venue,2019,7,94845,Automatic,CNG,Second,230000
+Maruti Suzuki,Wagon R,2015,11,105306,Manual,Petrol,First,238000
+Mahindra,Bolero,2011,15,167466,Automatic,Petrol,Second,259000
+Tata,Nexon,2010,16,197995,Manual,Petrol,First,140000
+Hyundai,Venue,2016,10,128119,Manual,CNG,Second,171000
+Kia,Sonet,2018,8,88078,Manual,Petrol,Second,331000
+Tata,Harrier,2012,14,156329,Manual,Diesel,Third,155000
+Hyundai,i20,2020,6,80856,Manual,Diesel,First,572000
+Hyundai,Grand i10,2011,15,139515,Automatic,Petrol,First,163000
+Maruti Suzuki,Dzire,2015,11,147122,Manual,Petrol,First,149000
+Mahindra,XUV700,2013,13,137962,Manual,Diesel,Third,245000
+Honda,Amaze,2020,6,80986,Manual,Diesel,First,396000
+Honda,City,2019,7,75207,Manual,Petrol,Second,294000
+Kia,Sonet,2017,9,110900,Manual,Petrol,First,330000
+Kia,Sonet,2020,6,73468,Automatic,Petrol,Third,379000
+Kia,Sonet,2024,2,9139,Manual,Petrol,First,766000
+Tata,Punch,2018,8,96715,Manual,Petrol,First,399000
+Hyundai,Grand i10,2024,2,30428,Manual,Petrol,Second,651000
+Honda,Jazz,2022,4,39321,Manual,Petrol,Second,585000
+Kia,Seltos,2011,15,220263,Manual,Electric,First,186000
+Maruti Suzuki,Brezza,2021,5,54136,Manual,Diesel,First,409000
+Tata,Altroz,2017,9,125709,Manual,Petrol,First,400000
+Maruti Suzuki,Swift,2013,13,157408,Manual,CNG,Third,101000
+Tata,Tiago,2021,5,98853,Manual,Petrol,Third,281000
+Hyundai,Venue,2021,5,43899,Automatic,Diesel,First,575000
+Hyundai,i20,2012,14,149434,Manual,Petrol,First,200000
+Toyota,Fortuner,2013,13,124207,Manual,Petrol,First,234000
+Hyundai,Venue,2016,10,124853,Manual,CNG,First,230000
+Honda,City,2018,8,165195,Automatic,Petrol,First,274000
+Hyundai,Grand i10,2013,13,135838,Manual,CNG,First,135000
+Kia,Sonet,2017,9,117493,Manual,Diesel,First,360000
+Toyota,Innova,2011,15,181715,Manual,CNG,Second,161000
+Maruti Suzuki,Dzire,2025,1,34131,Manual,Diesel,First,614000
+Tata,Tiago,2018,8,134228,Manual,Petrol,First,193000
+Tata,Nexon,2023,3,36865,Manual,Petrol,Second,799000
+Maruti Suzuki,Swift,2017,9,114887,Manual,Petrol,First,241000
+Toyota,Glanza,2025,1,1000,Manual,Petrol,First,1385000
+Maruti Suzuki,Swift,2020,6,36319,Manual,Petrol,Second,350000
+Toyota,Innova,2016,10,105777,Manual,Petrol,First,431000
+Maruti Suzuki,Swift,2015,11,114464,Manual,Petrol,First,181000
+Mahindra,Scorpio,2019,7,67308,Manual,Petrol,First,470000
+Mahindra,Scorpio,2021,5,70133,Manual,Petrol,First,571000
+Maruti Suzuki,Dzire,2014,12,138309,Manual,Petrol,Second,106000
+Tata,Tiago,2010,16,165199,Manual,Diesel,Fourth+,70000
+Maruti Suzuki,Dzire,2012,14,160033,Manual,Petrol,First,95000
+Kia,Carens,2025,1,14575,Manual,Diesel,First,1092000
+Hyundai,Verna,2019,7,95754,Automatic,CNG,First,401000
+Honda,City,2015,11,133149,Manual,Petrol,First,166000
+Maruti Suzuki,Dzire,2011,15,197322,Manual,Diesel,First,90000
+Hyundai,Creta,2010,16,199716,Manual,Diesel,First,115000
+Honda,Amaze,2022,4,43099,Manual,Diesel,First,559000
+Kia,Sonet,2024,2,43392,Automatic,CNG,First,849000
+Toyota,Etios,2024,2,1114,Manual,Diesel,Fourth+,908000
+Tata,Nexon,2025,1,1000,Manual,Diesel,First,1186000
+Renault,Triber,2019,7,98946,Manual,Petrol,Second,229000
+Maruti Suzuki,Brezza,2011,15,176620,Manual,Diesel,First,123000
+Hyundai,i20,2016,10,100907,Manual,Diesel,First,344000
+Kia,Sonet,2020,6,87425,Manual,Petrol,First,443000
+Honda,Jazz,2019,7,91308,Manual,Petrol,Fourth+,341000
+Kia,Seltos,2012,14,141733,Manual,Petrol,Second,219000
+Kia,Sonet,2013,13,188316,Manual,Petrol,Third,118000
+Maruti Suzuki,Dzire,2012,14,162362,Automatic,Diesel,First,119000
+Maruti Suzuki,Baleno,2012,14,141983,Manual,Petrol,Third,143000
+Hyundai,Creta,2020,6,43314,Manual,Petrol,First,504000
+Maruti Suzuki,Baleno,2020,6,70372,Manual,Petrol,Third,489000
+Maruti Suzuki,Swift,2018,8,83537,Automatic,Diesel,First,336000
+Maruti Suzuki,Swift,2020,6,84897,Manual,CNG,Second,315000
+Hyundai,i20,2013,13,153694,Manual,Diesel,First,188000
+Hyundai,i20,2023,3,44584,Automatic,Petrol,First,863000
+Toyota,Etios,2019,7,78911,Automatic,Electric,Third,391000
+Mahindra,Bolero,2023,3,19030,Manual,Diesel,Second,1651000
+Renault,Triber,2013,13,162498,Manual,CNG,Second,71000
+Tata,Tiago,2023,3,30564,Manual,Diesel,Second,467000
+Hyundai,Verna,2016,10,101643,Manual,Petrol,Second,246000
+Maruti Suzuki,Dzire,2020,6,81634,Manual,CNG,Fourth+,188000
+Toyota,Glanza,2015,11,121654,Manual,Petrol,Second,440000
+Renault,Kiger,2023,3,40919,Manual,Petrol,First,460000
+Hyundai,i20,2016,10,111994,Manual,Petrol,Second,296000
+Tata,Harrier,2024,2,42342,Manual,Diesel,First,958000
+Hyundai,Venue,2021,5,52383,Manual,Petrol,First,491000
+Mahindra,Bolero,2010,16,178804,Manual,Petrol,First,191000
+Maruti Suzuki,Wagon R,2015,11,102366,Manual,Diesel,First,316000
+Tata,Punch,2014,12,146133,Automatic,Petrol,Fourth+,169000
+Toyota,Fortuner,2018,8,93011,Manual,CNG,First,569000
+Toyota,Fortuner,2021,5,58514,Manual,Petrol,First,1033000
+Kia,Seltos,2021,5,72389,Manual,Diesel,First,964000
+Renault,Kwid,2024,2,31847,Manual,Petrol,First,572000
+Toyota,Fortuner,2018,8,97322,Manual,Diesel,Second,520000
+Maruti Suzuki,Wagon R,2013,13,168164,Manual,CNG,Second,135000
+Tata,Punch,2021,5,74894,Manual,Diesel,Second,433000
+Maruti Suzuki,Dzire,2025,1,8493,Automatic,CNG,Second,596000
+Tata,Tiago,2016,10,125385,Manual,Diesel,First,182000
+Kia,Carens,2011,15,175595,Manual,Diesel,First,127000
+Hyundai,Grand i10,2023,3,33964,Manual,Petrol,First,774000
+Toyota,Innova,2022,4,42930,Manual,Petrol,First,1393000
+Kia,Seltos,2016,10,138510,Manual,Diesel,First,314000
+Maruti Suzuki,Swift,2016,10,133311,Manual,Diesel,Second,213000
+Tata,Harrier,2024,2,40999,Automatic,Diesel,First,1152000
+Toyota,Innova,2019,7,85346,Manual,Petrol,Second,635000
+Maruti Suzuki,Brezza,2024,2,1000,Automatic,Diesel,Second,581000
+Honda,City,2020,6,49104,Manual,Hybrid,Second,452000
+Tata,Nexon,2012,14,174363,Automatic,Electric,Second,206000
+Renault,Kwid,2010,16,181667,Manual,Petrol,First,87000
+Mahindra,XUV700,2020,6,80875,Manual,Petrol,Second,760000
+Hyundai,Creta,2022,4,53505,Manual,Diesel,Third,634000
+Hyundai,i20,2011,15,154255,Manual,Petrol,Second,146000
+Mahindra,Scorpio,2013,13,138880,Manual,Petrol,First,135000
+Hyundai,Grand i10,2022,4,56161,Automatic,Petrol,First,592000
+Honda,WR-V,2022,4,45359,Manual,Diesel,First,628000
+Toyota,Etios,2020,6,90828,Manual,Petrol,First,482000
+Hyundai,Verna,2013,13,138576,Manual,CNG,Fourth+,114000
+Maruti Suzuki,Swift,2018,8,66198,Manual,Petrol,Second,307000
+Tata,Tiago,2013,13,137175,Manual,Petrol,First,126000
+Maruti Suzuki,Swift,2015,11,139737,Manual,Petrol,Second,151000
+Maruti Suzuki,Baleno,2010,16,199755,Manual,Petrol,First,94000
+Maruti Suzuki,Wagon R,2024,2,15758,Manual,Petrol,Second,827000
+Honda,Jazz,2025,1,24967,Manual,Diesel,First,1296000
+Mahindra,XUV500,2025,1,13297,Automatic,Petrol,First,2135000
+Hyundai,Grand i10,2014,12,161548,Automatic,Petrol,Second,145000
+Maruti Suzuki,Swift,2022,4,52096,Automatic,Diesel,First,634000
+Maruti Suzuki,Dzire,2021,5,75920,Manual,CNG,Second,242000
+Kia,Sonet,2014,12,183177,Manual,Diesel,Third,154000
+Kia,Seltos,2022,4,43470,Manual,Petrol,Second,862000
+Mahindra,XUV500,2017,9,120665,Manual,Petrol,First,455000
+Toyota,Fortuner,2014,12,126994,Automatic,Petrol,First,336000
+Hyundai,Verna,2024,2,40013,Manual,Petrol,Second,686000
+Maruti Suzuki,Dzire,2013,13,170652,Manual,Diesel,Second,112000
+Hyundai,i20,2022,4,56718,Manual,Petrol,First,719000
+Kia,Seltos,2011,15,190450,Manual,Petrol,Third,161000
+Mahindra,Scorpio,2025,1,59153,Automatic,Diesel,First,1261000
+Mahindra,XUV500,2018,8,99857,Manual,Petrol,Third,555000
+Hyundai,Venue,2010,16,217246,Automatic,Petrol,First,96000
+Maruti Suzuki,Dzire,2011,15,150943,Manual,Petrol,First,93000
+Hyundai,i20,2025,1,16811,Automatic,Petrol,Third,961000
+Maruti Suzuki,Dzire,2013,13,157647,Manual,CNG,First,101000
+Renault,Kwid,2022,4,9961,Manual,Petrol,First,574000
+Toyota,Fortuner,2023,3,49683,Automatic,Petrol,Third,1044000
+Tata,Altroz,2011,15,166253,Manual,Petrol,First,140000
+Honda,Amaze,2019,7,103848,Automatic,Petrol,First,370000
+Honda,WR-V,2011,15,184522,Manual,Diesel,First,127000
+Hyundai,Verna,2018,8,73461,Manual,Diesel,Second,341000
+Hyundai,Grand i10,2020,6,66038,Manual,Hybrid,First,514000
+Maruti Suzuki,Wagon R,2021,5,55566,Automatic,Petrol,First,594000
+Kia,Carens,2010,16,197199,Manual,Diesel,Third,102000
+Maruti Suzuki,Brezza,2018,8,91987,Manual,Petrol,First,267000
+Maruti Suzuki,Wagon R,2024,2,1000,Manual,Diesel,First,1196000
+Mahindra,Bolero,2021,5,55612,Automatic,Diesel,First,1011000
+Renault,Kwid,2022,4,24709,Manual,Diesel,First,668000
+Toyota,Etios,2010,16,205312,Automatic,Petrol,Second,122000
+Kia,Carens,2022,4,68541,Automatic,Petrol,First,567000
+Maruti Suzuki,Baleno,2022,4,41428,Manual,Hybrid,First,886000
+Maruti Suzuki,Wagon R,2015,11,108592,Automatic,Petrol,Second,258000
+Honda,Amaze,2023,3,45679,Manual,Petrol,First,709000
+Honda,Amaze,2018,8,79500,Manual,CNG,Second,238000
+Maruti Suzuki,Wagon R,2024,2,20594,Automatic,Diesel,Second,1119000
+Honda,City,2020,6,77270,Manual,Diesel,First,449000
+Maruti Suzuki,Dzire,2018,8,93755,Automatic,Petrol,First,254000
+Toyota,Glanza,2014,12,116580,Manual,Petrol,First,425000
+Honda,City,2021,5,68859,Manual,Petrol,Third,406000
+Mahindra,Scorpio,2024,2,43461,Automatic,Petrol,First,850000
+Maruti Suzuki,Swift,2024,2,47691,Automatic,Diesel,First,756000
+Maruti Suzuki,Dzire,2025,1,7671,Manual,Petrol,Third,540000
+Renault,Kiger,2024,2,28258,Automatic,Diesel,Second,572000
+Honda,City,2022,4,38498,Manual,Petrol,First,604000
+Tata,Harrier,2017,9,112961,Manual,Petrol,First,322000
+Maruti Suzuki,Swift,2019,7,96195,Automatic,Diesel,First,331000
+Hyundai,Verna,2010,16,182441,Manual,Petrol,First,94000
+Honda,Jazz,2011,15,181252,Automatic,Electric,Second,163000
+Honda,City,2019,7,107371,Manual,Petrol,First,311000
+Mahindra,Bolero,2017,9,107411,Manual,CNG,First,461000
+Hyundai,Grand i10,2018,8,86436,Manual,Diesel,Third,252000
+Maruti Suzuki,Wagon R,2012,14,167980,Automatic,Petrol,Second,118000
+Kia,Sonet,2015,11,130416,Manual,Petrol,First,247000
+Kia,Seltos,2019,7,70181,Automatic,Petrol,Fourth+,540000
+Renault,Kwid,2018,8,128159,Automatic,Diesel,First,245000
+Honda,City,2012,14,143572,Manual,Petrol,First,159000
+Renault,Triber,2019,7,93348,Automatic,Diesel,Second,299000
+Honda,Amaze,2013,13,173994,Automatic,Diesel,Third,136000
+Tata,Altroz,2018,8,80939,Manual,Petrol,First,409000
+Honda,WR-V,2017,9,112943,Manual,Diesel,First,378000
+Maruti Suzuki,Baleno,2014,12,142000,Manual,Petrol,First,252000
+Renault,Kwid,2020,6,59801,Manual,Diesel,First,431000
+Maruti Suzuki,Brezza,2017,9,89949,Manual,Petrol,First,276000
+Hyundai,Verna,2015,11,131207,Manual,Petrol,Second,207000
+Mahindra,Bolero,2018,8,69010,Automatic,Petrol,Fourth+,500000
+Mahindra,XUV500,2015,11,132572,Automatic,CNG,First,293000
+Hyundai,Venue,2017,9,118618,Manual,Petrol,First,268000
+Maruti Suzuki,Dzire,2015,11,131882,Manual,Hybrid,First,194000
+Tata,Altroz,2011,15,161481,Automatic,Diesel,First,162000
+Kia,Sonet,2011,15,183216,Manual,Petrol,Second,124000
+Hyundai,Verna,2025,1,38889,Automatic,CNG,Second,808000
+Honda,City,2013,13,159939,Manual,Hybrid,First,166000
+Maruti Suzuki,Swift,2021,5,40218,Automatic,Hybrid,Second,631000
+Maruti Suzuki,Baleno,2017,9,129389,Manual,Diesel,First,322000
+Hyundai,i20,2024,2,25092,Manual,Petrol,Third,878000
+Renault,Kwid,2025,1,9797,Manual,Petrol,First,612000
+Honda,City,2022,4,32268,Automatic,Petrol,First,636000
+Hyundai,i20,2011,15,201099,Manual,Petrol,First,113000
+Kia,Sonet,2011,15,184889,Manual,Diesel,Second,133000
+Kia,Carens,2022,4,34701,Manual,Petrol,First,648000
+Mahindra,XUV500,2012,14,153271,Automatic,Petrol,First,242000
+Maruti Suzuki,Swift,2012,14,193515,Manual,Petrol,First,101000
+Hyundai,Verna,2021,5,47482,Manual,Diesel,First,589000
+Toyota,Innova,2013,13,146909,Manual,Petrol,First,274000
+Tata,Altroz,2022,4,47378,Automatic,Petrol,First,753000
+Kia,Sonet,2020,6,49696,Manual,Petrol,First,523000
+Honda,Amaze,2018,8,98997,Manual,Electric,First,415000
+Maruti Suzuki,Swift,2022,4,43956,Manual,Petrol,First,442000
+Kia,Seltos,2018,8,113992,Automatic,Petrol,Second,394000
+Toyota,Glanza,2023,3,42265,Manual,Diesel,Second,1610000
+Toyota,Fortuner,2011,15,187544,Manual,Petrol,First,183000
+Maruti Suzuki,Swift,2023,3,83191,Manual,Petrol,First,511000
+Honda,Jazz,2015,11,123024,Automatic,Diesel,First,309000
+Tata,Nexon,2012,14,185094,Manual,Diesel,First,230000
+Maruti Suzuki,Dzire,2010,16,171805,Manual,Diesel,First,95000
+Maruti Suzuki,Swift,2018,8,118842,Automatic,Petrol,Second,269000
+Toyota,Etios,2014,12,152948,Automatic,Hybrid,Third,278000
+Hyundai,Grand i10,2015,11,129015,Automatic,Petrol,Second,190000
+Maruti Suzuki,Baleno,2013,13,143500,Manual,Petrol,First,195000
+Kia,Seltos,2014,12,132638,Manual,Electric,First,413000
+Maruti Suzuki,Baleno,2016,10,106099,Manual,Electric,Third,300000
+Hyundai,i20,2011,15,183189,Manual,Petrol,First,120000
+Maruti Suzuki,Swift,2015,11,157314,Manual,Petrol,Second,137000
+Hyundai,Creta,2015,11,145631,Automatic,Diesel,First,251000
+Maruti Suzuki,Swift,2025,1,10433,Manual,Diesel,Fourth+,666000
+Hyundai,Venue,2018,8,99498,Manual,Diesel,First,362000
+Maruti Suzuki,Wagon R,2017,9,136711,Manual,Petrol,First,255000
+Hyundai,Venue,2012,14,166221,Manual,CNG,First,103000
+Honda,City,2010,16,202225,Manual,Diesel,First,96000
+Mahindra,XUV700,2018,8,120149,Manual,Petrol,First,448000
+Hyundai,Venue,2011,15,154587,Manual,Petrol,Third,107000
+Toyota,Fortuner,2010,16,190709,Automatic,Petrol,First,203000
+Tata,Punch,2013,13,164841,Manual,Petrol,Second,178000
+Tata,Altroz,2017,9,136697,Manual,Petrol,First,306000
+Maruti Suzuki,Swift,2016,10,103585,Manual,Petrol,First,218000
+Honda,WR-V,2014,12,152394,Manual,Petrol,First,192000
+Hyundai,i20,2010,16,208598,Manual,CNG,First,88000
+Honda,City,2013,13,115406,Manual,Petrol,Second,168000
+Hyundai,Creta,2018,8,83556,Manual,Petrol,First,379000
+Honda,City,2025,1,1000,Manual,Petrol,Fourth+,589000
+Maruti Suzuki,Swift,2012,14,176585,Manual,Diesel,First,118000
+Toyota,Fortuner,2024,2,28602,Manual,Diesel,Third,1125000
+Mahindra,XUV700,2016,10,107047,Manual,Petrol,First,373000
+Mahindra,XUV500,2014,12,132303,Manual,Diesel,First,409000
+Hyundai,Creta,2010,16,188068,Manual,Diesel,First,119000
+Kia,Sonet,2022,4,44211,Automatic,Petrol,Second,571000
+Mahindra,Scorpio,2022,4,71711,Automatic,Petrol,First,557000
+Tata,Harrier,2012,14,158871,Manual,CNG,First,154000
+Maruti Suzuki,Baleno,2018,8,107835,Manual,Petrol,First,331000
+Tata,Tiago,2019,7,74780,Manual,Petrol,First,272000
+Maruti Suzuki,Wagon R,2010,16,216843,Manual,Petrol,First,103000
+Maruti Suzuki,Baleno,2018,8,106347,Manual,Petrol,Second,313000
+Maruti Suzuki,Swift,2025,1,21243,Manual,Petrol,First,634000
+Maruti Suzuki,Wagon R,2018,8,66516,Manual,Diesel,Second,381000
+Maruti Suzuki,Wagon R,2012,14,174169,Manual,Diesel,First,149000
+Hyundai,Venue,2011,15,172785,Manual,CNG,First,88000
+Kia,Carens,2021,5,49352,Manual,Petrol,First,555000
+Tata,Tiago,2012,14,164658,Manual,Petrol,First,107000
+Renault,Kwid,2018,8,134242,Manual,CNG,First,202000
+Maruti Suzuki,Brezza,2010,16,220211,Automatic,Petrol,First,70000
+Hyundai,Verna,2020,6,73445,Automatic,Petrol,Second,418000
+Hyundai,Verna,2015,11,121617,Automatic,Petrol,Second,229000
+Honda,City,2013,13,155251,Manual,Petrol,Fourth+,92000
+Renault,Kwid,2022,4,14979,Manual,Diesel,First,500000
+Renault,Kwid,2013,13,174502,Automatic,Petrol,Fourth+,85000
+Hyundai,Verna,2010,16,205562,Manual,CNG,Second,86000
+Renault,Kiger,2010,16,189093,Manual,Electric,Third,80000
+Maruti Suzuki,Wagon R,2011,15,170483,Automatic,Diesel,First,167000
+Hyundai,Venue,2016,10,106641,Manual,Petrol,Second,219000
+Renault,Kiger,2021,5,40032,Manual,Petrol,First,431000
+Maruti Suzuki,Swift,2010,16,185458,Automatic,Diesel,First,104000
+Maruti Suzuki,Wagon R,2025,1,25274,Automatic,Petrol,First,1053000
+Hyundai,i20,2019,7,97961,Manual,Petrol,First,375000
+Renault,Kiger,2010,16,185170,Manual,Diesel,First,81000
+Mahindra,Scorpio,2013,13,131300,Manual,Petrol,Fourth+,124000
+Renault,Triber,2016,10,113074,Manual,Petrol,First,219000
+Hyundai,Creta,2020,6,87556,Manual,Hybrid,Second,455000
+Mahindra,XUV700,2018,8,110176,Automatic,Petrol,Second,409000
+Toyota,Fortuner,2020,6,48398,Manual,Diesel,First,764000
+Mahindra,XUV700,2024,2,33300,Automatic,Diesel,First,1826000
+Hyundai,Creta,2012,14,213204,Manual,Petrol,First,103000
+Tata,Punch,2011,15,154350,Manual,Petrol,First,126000
+Maruti Suzuki,Brezza,2010,16,227162,Manual,Hybrid,Third,70000
+Kia,Sonet,2021,5,27981,Manual,Diesel,First,834000
+Kia,Carens,2025,1,11367,Manual,Diesel,Second,1119000
+Hyundai,Venue,2022,4,47696,Manual,Petrol,First,550000
+Hyundai,Verna,2015,11,145800,Manual,Diesel,First,263000
+Mahindra,XUV500,2019,7,79522,Automatic,Petrol,First,951000
+Maruti Suzuki,Brezza,2025,1,12417,Automatic,Petrol,First,930000
+Hyundai,Verna,2019,7,81597,Automatic,Diesel,Second,433000
+Maruti Suzuki,Wagon R,2015,11,140916,Manual,Electric,Third,230000
+Honda,Jazz,2025,1,39823,Manual,Petrol,First,1158000
+Tata,Altroz,2025,1,1000,Automatic,Petrol,First,1255000
+Hyundai,Venue,2025,1,27046,Automatic,Diesel,First,1014000
+Toyota,Fortuner,2022,4,38335,Manual,Petrol,Second,1076000
+Kia,Sonet,2013,13,157037,Automatic,CNG,First,208000
+Renault,Triber,2018,8,94521,Manual,Petrol,Second,242000
+Kia,Carens,2021,5,72242,Manual,Diesel,Second,636000
+Toyota,Etios,2010,16,196008,Manual,Petrol,Second,116000
+Hyundai,Grand i10,2023,3,25120,Manual,Petrol,First,695000
+Hyundai,i20,2016,10,110014,Manual,Petrol,Second,278000
+Tata,Punch,2017,9,94542,Manual,Petrol,Second,414000
+Kia,Seltos,2013,13,153641,Automatic,Petrol,Third,164000
+Tata,Harrier,2014,12,146493,Manual,Diesel,First,221000
+Renault,Triber,2016,10,113007,Automatic,Petrol,First,199000
+Kia,Carens,2019,7,88078,Automatic,Diesel,First,507000
+Hyundai,i20,2017,9,121527,Manual,Diesel,First,377000
+Toyota,Innova,2018,8,83304,Manual,CNG,First,573000
+Maruti Suzuki,Swift,2010,16,156793,Manual,CNG,Second,70000
+Hyundai,i20,2020,6,61699,Manual,Diesel,First,575000
+Hyundai,Verna,2025,1,10404,Automatic,Petrol,First,1161000
+Toyota,Fortuner,2012,14,164110,Manual,Diesel,Second,281000
+Tata,Punch,2010,16,158203,Manual,Diesel,Second,127000
+Kia,Sonet,2011,15,170740,Manual,Diesel,First,132000
+Mahindra,XUV700,2011,15,206564,Manual,Diesel,Second,164000
+Tata,Harrier,2016,10,101393,Manual,Hybrid,Second,303000
+Hyundai,Verna,2013,13,157988,Manual,Diesel,Third,193000
+Honda,WR-V,2017,9,111849,Manual,Petrol,Second,248000
+Mahindra,XUV500,2016,10,139204,Manual,Petrol,First,322000
+Kia,Seltos,2011,15,169224,Automatic,Petrol,First,205000
+Kia,Sonet,2011,15,206486,Manual,Petrol,First,139000
+Renault,Kiger,2018,8,74791,Automatic,Petrol,First,240000
+Maruti Suzuki,Baleno,2011,15,176767,Manual,Petrol,Second,109000
+Maruti Suzuki,Swift,2012,14,160595,Manual,Petrol,Second,93000
+Maruti Suzuki,Swift,2023,3,25635,Manual,Diesel,Third,436000
+Toyota,Glanza,2017,9,94529,Manual,Petrol,Second,533000
+Maruti Suzuki,Brezza,2018,8,118908,Manual,Petrol,Second,178000
+Kia,Carens,2017,9,105771,Automatic,Diesel,First,350000
+Hyundai,Verna,2020,6,45491,Manual,Petrol,Third,419000
+Maruti Suzuki,Dzire,2015,11,163348,Automatic,Petrol,Second,132000
+Tata,Nexon,2013,13,149972,Automatic,Petrol,First,311000
+Toyota,Innova,2020,6,67023,Manual,Diesel,First,750000
+Maruti Suzuki,Wagon R,2015,11,120839,Manual,Petrol,First,243000
+Kia,Seltos,2010,16,206853,Manual,CNG,Second,133000
+Tata,Altroz,2012,14,152769,Manual,Petrol,Second,182000
+Mahindra,Bolero,2012,14,197745,Manual,Diesel,Second,204000
+Hyundai,Grand i10,2020,6,72530,Automatic,Petrol,Second,386000
+Maruti Suzuki,Brezza,2014,12,174771,Manual,Diesel,First,165000
+Maruti Suzuki,Baleno,2015,11,112731,Manual,Petrol,First,196000
+Honda,WR-V,2020,6,65221,Automatic,Electric,First,541000
+Maruti Suzuki,Swift,2018,8,76253,Manual,CNG,First,240000
+Tata,Altroz,2022,4,67809,Manual,CNG,Fourth+,495000
+Kia,Seltos,2025,1,1000,Automatic,Diesel,Third,1460000
+Mahindra,XUV500,2016,10,131913,Manual,Diesel,First,428000
+Hyundai,Grand i10,2017,9,97565,Manual,Diesel,Third,245000
+Toyota,Glanza,2016,10,107160,Manual,Petrol,Second,495000
+Tata,Harrier,2024,2,34406,Automatic,CNG,First,1108000
+Maruti Suzuki,Baleno,2010,16,182596,Manual,Diesel,First,149000
+Hyundai,i20,2015,11,102075,Manual,Petrol,Third,223000
+Maruti Suzuki,Baleno,2022,4,57031,Manual,Petrol,First,608000
+Renault,Kiger,2010,16,163628,Manual,Electric,Third,70000
+Hyundai,Grand i10,2013,13,161176,Manual,Petrol,First,135000
+Hyundai,Venue,2019,7,58859,Manual,Petrol,First,369000
+Kia,Seltos,2021,5,77763,Manual,Petrol,Third,630000
+Kia,Carens,2012,14,166541,Manual,Diesel,Second,154000
+Maruti Suzuki,Dzire,2015,11,126073,Manual,Petrol,First,155000
+Maruti Suzuki,Swift,2018,8,71605,Automatic,Petrol,Second,375000
+Tata,Punch,2019,7,84736,Manual,Diesel,First,608000
+Honda,WR-V,2016,10,125313,Manual,Petrol,First,253000
+Tata,Tiago,2013,13,170191,Manual,Diesel,Third,106000
+Honda,Jazz,2018,8,108522,Manual,Diesel,First,545000
+Hyundai,Verna,2020,6,66723,Manual,Petrol,Second,367000
+Hyundai,Venue,2020,6,22060,Manual,Petrol,Second,495000
+Maruti Suzuki,Swift,2016,10,125960,Manual,Petrol,Second,196000
+Tata,Nexon,2024,2,32306,Manual,Petrol,Second,955000
+Maruti Suzuki,Wagon R,2021,5,58004,Manual,Diesel,Second,518000
+Tata,Nexon,2011,15,182789,Manual,Diesel,First,166000
+Honda,Jazz,2013,13,169648,Manual,CNG,First,152000
+Kia,Carens,2015,11,156228,Manual,Petrol,First,259000
+Hyundai,Grand i10,2018,8,113450,Manual,Petrol,First,280000
+Maruti Suzuki,Brezza,2020,6,79524,Manual,Hybrid,First,500000
+Honda,Jazz,2022,4,49636,Manual,Petrol,First,679000
+Toyota,Glanza,2025,1,18260,Manual,Petrol,First,1909000
+Tata,Nexon,2016,10,127125,Manual,Diesel,First,373000
+Tata,Altroz,2019,7,118996,Manual,Diesel,Second,372000
+Kia,Carens,2013,13,158744,Manual,Diesel,First,157000
+Kia,Sonet,2013,13,181479,Manual,CNG,First,133000
+Maruti Suzuki,Swift,2015,11,155049,Manual,Diesel,First,145000
+Kia,Sonet,2024,2,1000,Manual,Diesel,Second,1024000
+Maruti Suzuki,Swift,2020,6,79244,Manual,Petrol,Fourth+,268000
+Mahindra,XUV500,2014,12,162439,Manual,Diesel,First,360000
+Maruti Suzuki,Dzire,2015,11,132929,Manual,Petrol,First,173000
+Maruti Suzuki,Baleno,2020,6,88920,Manual,Diesel,First,591000
+Honda,City,2022,4,69991,Manual,Petrol,Second,407000
+Mahindra,Bolero,2022,4,31980,Manual,Petrol,Third,737000
+Hyundai,Verna,2014,12,135478,Manual,Diesel,First,181000
+Maruti Suzuki,Dzire,2016,10,115662,Manual,Petrol,First,216000
+Maruti Suzuki,Baleno,2011,15,181582,Automatic,Petrol,Third,109000
+Maruti Suzuki,Swift,2018,8,87222,Manual,CNG,Second,267000
+Mahindra,Scorpio,2012,14,190935,Automatic,CNG,First,125000
+Mahindra,XUV500,2016,10,110066,Manual,Petrol,First,412000
+Hyundai,Grand i10,2019,7,84547,Manual,Diesel,Second,430000
+Kia,Sonet,2017,9,123666,Manual,Diesel,Second,327000
+Tata,Nexon,2012,14,176151,Manual,Petrol,First,170000
+Tata,Punch,2023,3,34777,Manual,Diesel,Second,944000
+Honda,Jazz,2025,1,23717,Automatic,Petrol,First,1223000
+Toyota,Etios,2022,4,29776,Manual,CNG,First,800000
+Honda,WR-V,2011,15,176936,Manual,Diesel,First,138000
+Hyundai,Grand i10,2021,5,66497,Manual,Petrol,First,473000
+Hyundai,i20,2025,1,18997,Automatic,Petrol,Second,1015000
+Hyundai,Creta,2024,2,51997,Automatic,Petrol,Third,684000
+Honda,City,2016,10,93422,Manual,Electric,Third,246000
+Maruti Suzuki,Dzire,2021,5,45665,Manual,Diesel,First,431000
+Renault,Triber,2019,7,83317,Manual,Petrol,First,243000
+Maruti Suzuki,Swift,2017,9,86037,Automatic,Petrol,Second,202000
+Hyundai,Venue,2020,6,86714,Manual,Petrol,First,344000
+Toyota,Fortuner,2018,8,99629,Manual,Petrol,Second,490000
+Maruti Suzuki,Dzire,2020,6,71204,Manual,Petrol,Second,324000
+Maruti Suzuki,Swift,2016,10,91675,Manual,CNG,First,237000
+Toyota,Fortuner,2011,15,191914,Manual,Petrol,Second,166000
+Hyundai,Venue,2023,3,40699,Manual,CNG,First,646000
+Toyota,Glanza,2011,15,184477,Manual,Diesel,Third,213000
+Toyota,Glanza,2023,3,1000,Automatic,Petrol,First,1541000
+Honda,City,2025,1,1000,Manual,Diesel,First,840000
+Kia,Sonet,2022,4,25255,Manual,Petrol,First,786000
+Hyundai,Venue,2012,14,177155,Manual,Petrol,Second,105000
+Tata,Altroz,2015,11,127240,Manual,Petrol,Second,226000
+Hyundai,Grand i10,2020,6,93973,Manual,CNG,First,435000
+Toyota,Fortuner,2012,14,190865,Automatic,Petrol,First,204000
+Hyundai,i20,2025,1,18614,Manual,Petrol,Fourth+,669000
+Maruti Suzuki,Swift,2018,8,82458,Automatic,Petrol,Second,267000
+Kia,Seltos,2022,4,45637,Automatic,Petrol,First,1319000
+Renault,Kwid,2014,12,137338,Manual,CNG,First,120000
+Tata,Nexon,2023,3,17474,Manual,CNG,Second,886000
+Tata,Punch,2016,10,138953,Manual,Petrol,First,264000
+Toyota,Glanza,2022,4,47757,Manual,Petrol,Second,935000
+Hyundai,Grand i10,2017,9,84086,Manual,Petrol,First,252000
+Hyundai,Creta,2012,14,185363,Automatic,Petrol,Second,151000
+Renault,Kwid,2021,5,42705,Manual,Petrol,Second,406000
+Tata,Harrier,2023,3,52516,Manual,Petrol,First,844000
+Maruti Suzuki,Wagon R,2013,13,149598,Manual,Diesel,First,202000
+Maruti Suzuki,Baleno,2013,13,214246,Automatic,Diesel,Second,167000
+Toyota,Glanza,2012,14,183383,Manual,CNG,Second,229000
+Toyota,Etios,2013,13,114316,Manual,Petrol,First,244000
+Maruti Suzuki,Wagon R,2014,12,160467,Manual,CNG,Third,123000
+Renault,Kwid,2023,3,37642,Manual,Petrol,First,640000
+Mahindra,XUV700,2018,8,99275,Manual,Diesel,Second,535000
+Honda,City,2019,7,59899,Manual,Petrol,First,312000
+Honda,City,2022,4,48290,Automatic,Petrol,First,582000
+Tata,Punch,2015,11,99371,Manual,Petrol,Second,263000
+Tata,Altroz,2021,5,75660,Manual,Petrol,Second,535000
+Tata,Altroz,2017,9,94429,Manual,Petrol,First,375000
+Honda,Jazz,2021,5,71667,Manual,Petrol,Second,556000
+Tata,Harrier,2025,1,1000,Manual,Petrol,Second,812000
+Honda,Amaze,2018,8,81672,Manual,Petrol,First,333000
+Maruti Suzuki,Wagon R,2023,3,23071,Manual,Petrol,Second,654000
+Tata,Nexon,2018,8,105143,Automatic,Diesel,First,431000
+Maruti Suzuki,Baleno,2022,4,46778,Manual,Petrol,First,734000
+Maruti Suzuki,Wagon R,2014,12,150722,Manual,Petrol,First,174000
+Tata,Nexon,2014,12,169149,Manual,Diesel,First,270000
+Mahindra,Scorpio,2012,14,159670,Manual,Diesel,Fourth+,138000
+Mahindra,Bolero,2019,7,89247,Automatic,Petrol,Fourth+,515000
+Tata,Punch,2015,11,125136,Automatic,CNG,First,298000
+Renault,Kwid,2024,2,21642,Automatic,Petrol,Second,621000
+Kia,Sonet,2025,1,12584,Automatic,Diesel,First,1119000
+Honda,Jazz,2019,7,135702,Manual,Diesel,Second,429000
+Renault,Kwid,2017,9,131117,Manual,Petrol,Third,187000
+Mahindra,Bolero,2024,2,12855,Manual,Petrol,Third,1328000
+Mahindra,XUV500,2020,6,85530,Manual,CNG,Second,479000
+Tata,Harrier,2024,2,1306,Automatic,Petrol,Third,1033000
+Tata,Harrier,2021,5,61001,Manual,Diesel,First,634000
+Toyota,Innova,2023,3,9976,Manual,Petrol,First,1055000
+Maruti Suzuki,Dzire,2017,9,92561,Manual,Diesel,First,237000
+Hyundai,Venue,2019,7,76418,Automatic,Petrol,Second,352000
+Renault,Kwid,2025,1,1000,Automatic,Diesel,Second,736000
+Hyundai,Creta,2022,4,51402,Manual,Petrol,First,766000
+Maruti Suzuki,Swift,2021,5,92886,Manual,Diesel,First,477000
+Honda,WR-V,2013,13,162735,Automatic,Petrol,Second,157000
+Tata,Tiago,2018,8,105084,Manual,Petrol,First,241000
+Toyota,Etios,2021,5,71003,Manual,Petrol,First,637000
+Maruti Suzuki,Baleno,2019,7,87464,Manual,CNG,First,442000
+Honda,City,2019,7,91582,Manual,Diesel,Second,330000
+Tata,Punch,2012,14,175751,Manual,Hybrid,Second,182000
+Hyundai,Grand i10,2011,15,192500,Manual,Petrol,First,132000
+Maruti Suzuki,Swift,2014,12,134719,Automatic,Petrol,First,187000
+Honda,WR-V,2016,10,139061,Manual,Diesel,First,189000
+Hyundai,Grand i10,2013,13,106462,Manual,Petrol,Second,185000
+Mahindra,Bolero,2017,9,125254,Manual,Petrol,First,563000
+Hyundai,Verna,2014,12,145303,Automatic,Petrol,First,179000
+Tata,Punch,2011,15,186631,Manual,Petrol,Second,117000
+Tata,Harrier,2020,6,63984,Manual,Petrol,Second,479000
+Tata,Altroz,2013,13,135628,Automatic,Petrol,Fourth+,149000
+Mahindra,XUV500,2013,13,133537,Automatic,CNG,Second,304000
+Hyundai,Verna,2022,4,70078,Manual,Petrol,Fourth+,445000
+Kia,Sonet,2021,5,59254,Manual,Petrol,Second,634000
+Hyundai,Venue,2018,8,119685,Automatic,Electric,First,362000
+Kia,Sonet,2016,10,108524,Manual,Petrol,Third,263000
+Tata,Tiago,2018,8,89685,Manual,Petrol,Fourth+,165000
+Maruti Suzuki,Wagon R,2011,15,184916,Manual,Diesel,Fourth+,94000
+Maruti Suzuki,Wagon R,2013,13,139213,Manual,Petrol,First,161000
+Mahindra,XUV700,2019,7,70966,Manual,Petrol,First,684000
+Mahindra,XUV700,2021,5,70342,Manual,Petrol,Second,730000
+Hyundai,Creta,2025,1,14277,Manual,CNG,First,971000
+Kia,Carens,2022,4,40178,Manual,Petrol,First,730000
+Tata,Nexon,2024,2,42192,Manual,Petrol,Second,828000
+Tata,Punch,2019,7,63050,Manual,Petrol,First,404000
+Tata,Tiago,2014,12,138899,Manual,CNG,First,143000
+Honda,Jazz,2021,5,55831,Manual,Electric,First,959000
+Hyundai,Verna,2016,10,115385,Manual,Diesel,Second,266000
+Honda,WR-V,2021,5,65132,Automatic,Petrol,First,542000
+Hyundai,i20,2025,1,53266,Manual,Petrol,First,1192000
+Renault,Kwid,2014,12,168124,Manual,Petrol,Second,130000
+Honda,City,2021,5,46361,Manual,Petrol,First,477000
+Tata,Punch,2020,6,66471,Manual,Diesel,First,532000
+Honda,WR-V,2021,5,31949,Manual,CNG,First,569000
+Maruti Suzuki,Wagon R,2021,5,54111,Automatic,Diesel,First,701000
+Renault,Triber,2025,1,11097,Manual,Petrol,First,568000
+Maruti Suzuki,Wagon R,2025,1,1000,Manual,Diesel,First,1223000
+Hyundai,Verna,2019,7,91104,Manual,Diesel,Second,480000
+Tata,Altroz,2015,11,110102,Manual,Petrol,Second,233000
+Honda,City,2025,1,1000,Manual,Petrol,Second,707000
+Hyundai,Verna,2016,10,73797,Automatic,Petrol,First,352000
+Hyundai,Venue,2012,14,179262,Manual,Petrol,Third,137000
+Mahindra,XUV700,2020,6,115435,Manual,Petrol,Third,502000
+Maruti Suzuki,Brezza,2023,3,23369,Manual,Petrol,Second,605000
+Mahindra,XUV500,2025,1,1817,Manual,Petrol,First,1943000
+Maruti Suzuki,Brezza,2020,6,86583,Automatic,Petrol,Second,282000
+Honda,Amaze,2021,5,39939,Automatic,Petrol,First,538000
+Hyundai,Venue,2010,16,219668,Manual,CNG,First,70000
+Mahindra,Scorpio,2011,15,195646,Manual,Petrol,First,117000
+Hyundai,Venue,2011,15,179934,Manual,CNG,First,104000
+Honda,Jazz,2012,14,190384,Manual,Petrol,First,138000
+Hyundai,Verna,2023,3,53260,Manual,Petrol,First,729000
+Hyundai,Verna,2018,8,104509,Manual,Petrol,First,389000
+Maruti Suzuki,Brezza,2015,11,146880,Manual,Petrol,Third,128000
+Honda,Amaze,2023,3,27038,Manual,Petrol,First,642000
+Honda,Amaze,2018,8,49680,Manual,Petrol,First,357000
+Maruti Suzuki,Wagon R,2022,4,51324,Automatic,Diesel,Second,621000
+Mahindra,Scorpio,2023,3,10734,Manual,CNG,Third,613000
+Tata,Harrier,2013,13,159672,Automatic,Diesel,First,226000
+Mahindra,XUV500,2022,4,2209,Manual,Diesel,First,1294000
+Honda,City,2019,7,53819,Automatic,Diesel,Third,321000
+Maruti Suzuki,Baleno,2021,5,75868,Automatic,Petrol,First,707000
+Honda,Jazz,2018,8,87916,Automatic,Petrol,First,439000
+Mahindra,XUV700,2013,13,173248,Manual,Petrol,Third,201000
+Kia,Sonet,2021,5,80258,Manual,Diesel,First,605000
+Maruti Suzuki,Swift,2010,16,193149,Manual,CNG,Third,70000
+Hyundai,Creta,2013,13,152952,Manual,Petrol,First,138000
+Hyundai,Creta,2018,8,91245,Manual,Petrol,First,313000
+Renault,Kiger,2022,4,67512,Automatic,Petrol,Second,355000
+Maruti Suzuki,Baleno,2021,5,30228,Manual,Diesel,Second,622000
+Maruti Suzuki,Wagon R,2015,11,132362,Manual,Diesel,First,232000
+Mahindra,Bolero,2021,5,61466,Manual,Diesel,Second,903000
+Honda,Amaze,2011,15,192847,Automatic,Petrol,First,104000
+Maruti Suzuki,Dzire,2019,7,69225,Manual,Petrol,First,241000
+Toyota,Innova,2024,2,17029,Manual,Diesel,First,1898000
+Honda,Jazz,2014,12,130311,Manual,Diesel,First,350000
+Tata,Punch,2014,12,158761,Manual,Petrol,Second,154000
+Tata,Tiago,2013,13,188258,Manual,Petrol,Fourth+,79000
+Maruti Suzuki,Dzire,2012,14,133701,Automatic,Diesel,First,148000
+Hyundai,Verna,2014,12,161189,Manual,Petrol,First,198000
+Toyota,Etios,2010,16,175206,Manual,Petrol,Second,121000
+Hyundai,Creta,2024,2,37354,Manual,Petrol,First,881000
+Maruti Suzuki,Brezza,2020,6,82010,Manual,Petrol,Second,314000
+Honda,Jazz,2018,8,76305,Manual,Petrol,Second,442000
+Mahindra,Bolero,2018,8,94064,Automatic,Petrol,First,607000
+Hyundai,Verna,2010,16,186619,Manual,Petrol,First,91000
+Maruti Suzuki,Swift,2011,15,187941,Manual,Diesel,First,95000
+Honda,WR-V,2014,12,148264,Manual,Petrol,Fourth+,186000
+Toyota,Glanza,2021,5,85108,Manual,Petrol,Third,726000
+Tata,Nexon,2018,8,84479,Manual,Petrol,Third,304000
+Kia,Seltos,2014,12,115528,Automatic,CNG,First,330000
+Tata,Altroz,2013,13,133966,Manual,Diesel,First,199000
+Tata,Altroz,2018,8,108627,Manual,Petrol,First,306000
+Kia,Carens,2021,5,89601,Manual,Petrol,Second,420000
+Tata,Tiago,2019,7,65891,Automatic,Petrol,First,255000
+Mahindra,XUV700,2022,4,24977,Manual,Diesel,First,988000
+Tata,Nexon,2024,2,32958,Automatic,Petrol,First,1155000
+Maruti Suzuki,Brezza,2013,13,172678,Manual,Petrol,First,127000
+Maruti Suzuki,Swift,2014,12,141415,Manual,Electric,Second,139000
+Maruti Suzuki,Wagon R,2011,15,222972,Manual,Diesel,First,117000
+Toyota,Fortuner,2014,12,118685,Automatic,Diesel,First,400000
+Honda,City,2023,3,41980,Manual,Petrol,First,598000
+Maruti Suzuki,Wagon R,2017,9,106316,Manual,Petrol,First,295000
+Maruti Suzuki,Wagon R,2025,1,1000,Manual,Diesel,Second,1029000
+Renault,Kiger,2016,10,119094,Manual,Diesel,Second,199000
+Mahindra,XUV700,2019,7,92927,Manual,Diesel,Second,502000
+Maruti Suzuki,Baleno,2012,14,160551,Manual,Petrol,Second,161000
+Honda,Amaze,2019,7,75960,Manual,Petrol,First,342000
+Kia,Sonet,2023,3,11499,Automatic,Petrol,First,1038000
+Mahindra,Scorpio,2017,9,134179,Automatic,Electric,Second,343000
+Honda,WR-V,2016,10,163614,Manual,Petrol,First,158000
+Maruti Suzuki,Baleno,2024,2,27560,Manual,Diesel,First,693000
+Maruti Suzuki,Baleno,2023,3,43316,Automatic,CNG,First,802000
+Kia,Sonet,2020,6,65444,Manual,Petrol,Second,543000
+Toyota,Fortuner,2010,16,187353,Manual,Petrol,First,182000
+Mahindra,Bolero,2023,3,63816,Automatic,Petrol,First,1197000
+Renault,Kwid,2023,3,37594,Automatic,Diesel,First,615000
+Maruti Suzuki,Dzire,2016,10,149433,Manual,Petrol,Second,176000
+Hyundai,i20,2012,14,178848,Automatic,Petrol,Second,138000
+Toyota,Fortuner,2012,14,164065,Manual,Diesel,First,215000
+Hyundai,Creta,2014,12,144768,Manual,Diesel,Second,174000
+Maruti Suzuki,Brezza,2014,12,110002,Manual,Diesel,First,206000
+Maruti Suzuki,Wagon R,2017,9,71860,Manual,CNG,Third,298000
+Hyundai,i20,2013,13,155554,Manual,CNG,Second,153000
+Maruti Suzuki,Baleno,2012,14,151741,Manual,Petrol,First,122000
+Maruti Suzuki,Brezza,2018,8,105829,Automatic,Petrol,First,305000
+Mahindra,XUV500,2019,7,79107,Automatic,Diesel,Third,574000
+Toyota,Fortuner,2010,16,187197,Manual,Petrol,First,200000
+Maruti Suzuki,Wagon R,2019,7,62913,Manual,Petrol,Second,463000
+Maruti Suzuki,Brezza,2019,7,125088,Manual,Diesel,First,257000
+Maruti Suzuki,Brezza,2014,12,143393,Manual,Petrol,Third,134000
+Mahindra,Scorpio,2014,12,149847,Automatic,CNG,First,176000
+Toyota,Etios,2017,9,104644,Manual,Diesel,First,369000
+Kia,Seltos,2021,5,84251,Manual,Diesel,Third,620000
+Kia,Seltos,2016,10,135988,Manual,Electric,First,415000
+Hyundai,Venue,2023,3,54884,Automatic,Petrol,Second,517000
+Hyundai,Verna,2011,15,173677,Manual,CNG,First,134000
+Toyota,Etios,2012,14,166200,Manual,Diesel,First,193000
+Maruti Suzuki,Wagon R,2014,12,151617,Manual,Diesel,Second,170000
+Tata,Tiago,2019,7,76936,Automatic,CNG,Second,224000
+Maruti Suzuki,Baleno,2014,12,127933,Manual,Diesel,Third,190000
+Renault,Kwid,2014,12,144705,Manual,Petrol,Second,108000
+Tata,Nexon,2018,8,88424,Automatic,Diesel,Second,468000
+Kia,Seltos,2016,10,131805,Manual,Electric,Second,357000
+Hyundai,Grand i10,2010,16,195112,Manual,Petrol,Second,77000
+Maruti Suzuki,Dzire,2021,5,68280,Manual,Diesel,Second,414000
+Hyundai,Grand i10,2012,14,146928,Manual,Petrol,Third,138000
+Tata,Nexon,2021,5,77123,Manual,Diesel,Second,574000
+Honda,WR-V,2016,10,94254,Manual,Diesel,First,304000
+Kia,Seltos,2011,15,158747,Manual,Petrol,First,215000
+Maruti Suzuki,Baleno,2024,2,38627,Manual,CNG,First,710000
+Honda,City,2022,4,51689,Manual,Diesel,First,558000
+Kia,Sonet,2024,2,15552,Manual,Petrol,Second,1016000
+Renault,Triber,2018,8,108436,Manual,Petrol,First,212000
+Maruti Suzuki,Brezza,2011,15,155495,Manual,Petrol,First,95000
+Renault,Kwid,2011,15,182795,Manual,Diesel,Second,71000
+Tata,Altroz,2012,14,167792,Manual,CNG,Third,138000
+Maruti Suzuki,Swift,2014,12,173220,Manual,Diesel,Second,137000
+Maruti Suzuki,Swift,2017,9,114135,Manual,Petrol,Third,216000
+Hyundai,Venue,2014,12,172381,Automatic,Electric,Second,175000
+Maruti Suzuki,Wagon R,2019,7,79243,Manual,Petrol,First,413000
+Mahindra,Bolero,2013,13,166005,Automatic,Diesel,Fourth+,276000
+Tata,Altroz,2024,2,28683,Manual,Petrol,First,868000
+Maruti Suzuki,Brezza,2025,1,25952,Automatic,Diesel,First,652000
+Tata,Harrier,2021,5,63176,Manual,Diesel,First,811000
+Tata,Nexon,2022,4,74529,Manual,Diesel,Second,707000
+Toyota,Fortuner,2011,15,158481,Manual,Petrol,Second,220000
+Honda,City,2024,2,1000,Manual,Diesel,Second,762000
+Tata,Tiago,2025,1,19299,Manual,Petrol,First,641000
+Mahindra,Scorpio,2020,6,68339,Manual,Diesel,First,561000
+Maruti Suzuki,Wagon R,2010,16,180470,Manual,Diesel,First,115000
+Mahindra,XUV700,2016,10,123163,Manual,Petrol,First,339000
+Kia,Seltos,2024,2,47357,Manual,Petrol,Second,1111000
+Maruti Suzuki,Baleno,2011,15,185644,Automatic,Petrol,First,125000
+Maruti Suzuki,Baleno,2024,2,36580,Manual,Petrol,First,725000
+Toyota,Glanza,2011,15,183134,Manual,Petrol,Second,205000
+Maruti Suzuki,Wagon R,2023,3,28255,Manual,Petrol,First,830000
+Mahindra,XUV500,2018,8,64442,Manual,Petrol,Second,647000
+Toyota,Fortuner,2019,7,98361,Automatic,Diesel,First,726000
+Kia,Carens,2024,2,24720,Manual,Diesel,Third,886000
+Renault,Kiger,2022,4,46838,Manual,Petrol,Second,457000
+Hyundai,Verna,2014,12,113268,Manual,Petrol,First,210000
+Maruti Suzuki,Swift,2025,1,1000,Automatic,Diesel,First,896000
+Kia,Seltos,2012,14,172095,Manual,Petrol,First,189000
+Maruti Suzuki,Swift,2017,9,107795,Manual,Petrol,First,259000
+Mahindra,Bolero,2015,11,110328,Manual,Petrol,First,472000
+Tata,Nexon,2011,15,184258,Automatic,Petrol,Second,144000
+Maruti Suzuki,Brezza,2022,4,46844,Manual,Diesel,Second,434000
+Maruti Suzuki,Wagon R,2016,10,104498,Automatic,Petrol,Second,261000
+Maruti Suzuki,Brezza,2023,3,16789,Automatic,Petrol,First,746000
+Mahindra,Bolero,2014,12,132628,Manual,Petrol,First,357000
+Maruti Suzuki,Brezza,2023,3,39799,Manual,Petrol,First,662000
+Mahindra,Scorpio,2010,16,166124,Manual,Petrol,First,115000
+Maruti Suzuki,Brezza,2017,9,89827,Automatic,Diesel,Second,265000
+Maruti Suzuki,Dzire,2025,1,1000,Manual,Petrol,First,716000
+Maruti Suzuki,Wagon R,2018,8,109666,Automatic,Petrol,Second,336000
+Hyundai,i20,2017,9,111040,Automatic,CNG,Third,246000
+Tata,Punch,2017,9,101354,Automatic,Diesel,Second,315000
+Kia,Carens,2010,16,176255,Automatic,Petrol,Third,83000
+Hyundai,Grand i10,2013,13,181863,Manual,Petrol,Second,169000
+Honda,City,2021,5,56434,Manual,Petrol,Second,381000
+Tata,Tiago,2017,9,112553,Automatic,Petrol,First,225000
+Mahindra,XUV500,2011,15,177591,Automatic,Diesel,Third,192000
+Mahindra,XUV500,2010,16,181572,Automatic,Petrol,Third,160000
+Tata,Altroz,2023,3,49612,Manual,Petrol,First,822000
+Maruti Suzuki,Swift,2025,1,21275,Manual,Diesel,Third,636000
+Mahindra,XUV500,2011,15,185179,Manual,Diesel,Second,199000
+Honda,Jazz,2013,13,154902,Manual,Petrol,Third,160000
+Hyundai,Grand i10,2012,14,196703,Manual,CNG,First,111000
+Maruti Suzuki,Dzire,2014,12,130349,Manual,Diesel,First,156000
+Tata,Tiago,2015,11,145916,Manual,Petrol,First,144000
+Honda,Jazz,2011,15,200883,Automatic,Diesel,First,152000
+Toyota,Innova,2012,14,171574,Manual,Diesel,Second,253000
+Honda,Jazz,2011,15,158187,Manual,Diesel,Second,139000
+Maruti Suzuki,Swift,2011,15,183629,Manual,Diesel,First,110000
+Hyundai,Grand i10,2020,6,64927,Automatic,Diesel,First,563000
+Maruti Suzuki,Brezza,2016,10,104403,Manual,Diesel,First,194000
+Hyundai,i20,2013,13,142109,Automatic,Petrol,Second,174000
+Honda,Amaze,2013,13,164900,Manual,Petrol,First,111000
+Maruti Suzuki,Wagon R,2018,8,123596,Manual,Petrol,First,354000
+Tata,Harrier,2020,6,68114,Manual,Petrol,Second,492000
+Maruti Suzuki,Wagon R,2013,13,155773,Manual,Petrol,First,165000
+Tata,Altroz,2017,9,89776,Manual,Petrol,Third,290000
+Hyundai,Creta,2013,13,132563,Manual,Petrol,First,232000
+Hyundai,Verna,2010,16,141691,Manual,Diesel,Second,162000
+Hyundai,Venue,2010,16,207934,Manual,Diesel,First,80000
+Maruti Suzuki,Wagon R,2012,14,178409,Manual,Petrol,First,147000
+Toyota,Innova,2022,4,60041,Manual,Electric,First,1190000
+Hyundai,Creta,2022,4,38309,Automatic,Petrol,Second,751000
+Hyundai,Creta,2014,12,143470,Manual,Diesel,Second,209000
+Maruti Suzuki,Swift,2017,9,98648,Manual,Diesel,First,288000
+Mahindra,Bolero,2021,5,78879,Manual,Diesel,First,988000
+Maruti Suzuki,Baleno,2019,7,81081,Manual,Petrol,First,342000
+Tata,Tiago,2010,16,187222,Manual,Diesel,Second,89000
+Honda,WR-V,2011,15,164570,Manual,Diesel,First,120000
+Toyota,Fortuner,2019,7,84594,Manual,Petrol,First,674000
+Toyota,Fortuner,2023,3,49733,Manual,Diesel,First,1035000
+Maruti Suzuki,Baleno,2013,13,192134,Manual,Diesel,First,147000
+Mahindra,Scorpio,2024,2,42557,Manual,Electric,Third,779000
+Hyundai,Creta,2017,9,103915,Manual,Diesel,Second,335000
+Kia,Sonet,2017,9,143561,Manual,Diesel,First,313000
+Maruti Suzuki,Dzire,2011,15,187968,Manual,Electric,Second,116000
+Hyundai,Venue,2016,10,130146,Manual,Petrol,First,272000
+Kia,Carens,2010,16,195862,Manual,Petrol,Second,77000
+Maruti Suzuki,Baleno,2022,4,75689,Manual,Diesel,Second,651000
+Kia,Sonet,2020,6,66340,Manual,Petrol,First,658000
+Maruti Suzuki,Swift,2016,10,87554,Manual,Diesel,Second,245000
+Honda,Amaze,2022,4,7804,Manual,Petrol,Second,651000
+Mahindra,Bolero,2010,16,211777,Automatic,Petrol,Second,154000
+Tata,Harrier,2019,7,71543,Manual,Petrol,Third,389000
+Renault,Triber,2013,13,173506,Manual,Petrol,Second,82000
+Maruti Suzuki,Swift,2023,3,30655,Manual,Petrol,First,632000
+Tata,Tiago,2017,9,142549,Automatic,Diesel,Second,206000
+Tata,Harrier,2010,16,173650,Automatic,Petrol,Second,126000
+Maruti Suzuki,Brezza,2020,6,61329,Manual,Petrol,Fourth+,261000
+Renault,Kiger,2013,13,213168,Manual,Petrol,First,76000
+Hyundai,i20,2012,14,139629,Manual,Petrol,First,177000
+Kia,Sonet,2025,1,20335,Manual,Petrol,First,869000
+Tata,Harrier,2011,15,163323,Manual,Petrol,First,144000
+Mahindra,Scorpio,2025,1,11384,Manual,Electric,Second,1213000
+Maruti Suzuki,Dzire,2012,14,167097,Manual,Diesel,First,120000
+Hyundai,Grand i10,2012,14,157281,Manual,Diesel,First,129000
+Kia,Carens,2017,9,136157,Manual,Petrol,First,286000
+Hyundai,Grand i10,2010,16,176857,Automatic,Petrol,Second,86000
+Honda,Jazz,2013,13,158721,Manual,Diesel,First,247000
+Honda,WR-V,2014,12,149008,Automatic,Diesel,Second,155000
+Maruti Suzuki,Wagon R,2011,15,170862,Manual,Petrol,Second,140000
+Honda,Jazz,2010,16,214574,Automatic,Petrol,Third,97000
+Honda,Amaze,2016,10,101262,Manual,Petrol,Third,216000
+Mahindra,Scorpio,2010,16,179579,Manual,Petrol,First,114000
+Maruti Suzuki,Swift,2015,11,158417,Manual,Diesel,Second,153000
+Renault,Triber,2025,1,12357,Manual,Diesel,First,826000
+Honda,Jazz,2025,1,28066,Manual,Diesel,First,1476000
+Toyota,Innova,2020,6,57103,Automatic,Petrol,Second,915000
+Honda,Amaze,2019,7,80308,Manual,Diesel,First,345000
+Hyundai,Creta,2016,10,121334,Manual,CNG,Second,190000
+Toyota,Etios,2023,3,39522,Automatic,Diesel,First,993000
+Kia,Carens,2025,1,1000,Manual,Diesel,First,1127000
+Tata,Tiago,2010,16,188402,Manual,Petrol,First,84000
+Honda,WR-V,2024,2,44684,Automatic,Petrol,First,699000
+Renault,Triber,2010,16,198339,Manual,Petrol,Second,70000
+Maruti Suzuki,Dzire,2024,2,20881,Manual,Diesel,First,635000
+Maruti Suzuki,Wagon R,2019,7,105483,Manual,Petrol,First,396000
+Mahindra,Scorpio,2017,9,135433,Manual,Diesel,First,300000
+Kia,Carens,2011,15,192827,Manual,Petrol,First,116000
+Honda,WR-V,2017,9,133075,Manual,Petrol,Second,207000
+Mahindra,XUV700,2024,2,26641,Manual,Petrol,Second,1154000
+Hyundai,i20,2016,10,119580,Manual,Diesel,First,282000
+Honda,WR-V,2013,13,158257,Manual,Petrol,First,135000
+Honda,Amaze,2023,3,25487,Manual,Petrol,First,729000
+Maruti Suzuki,Brezza,2025,1,23853,Manual,Petrol,Third,583000
+Kia,Seltos,2018,8,104674,Manual,Petrol,Second,450000
+Hyundai,Verna,2025,1,26525,Manual,Diesel,Second,1146000
+Maruti Suzuki,Brezza,2021,5,77443,Manual,Petrol,Second,409000
+Renault,Kiger,2018,8,110735,Manual,CNG,Second,187000
+Honda,City,2024,2,54388,Automatic,Diesel,Second,798000
+Tata,Punch,2020,6,97625,Manual,Diesel,Third,492000
+Maruti Suzuki,Dzire,2021,5,79655,Automatic,Petrol,First,333000
+Toyota,Innova,2010,16,205689,Manual,Petrol,First,133000
+Hyundai,Venue,2010,16,172476,Manual,Petrol,First,94000
+Hyundai,Venue,2016,10,127490,Automatic,Petrol,First,197000
+Hyundai,i20,2016,10,107663,Manual,Petrol,First,305000
+Mahindra,Bolero,2021,5,66856,Manual,Diesel,First,1175000
+Tata,Altroz,2016,10,115430,Manual,Petrol,First,275000
+Kia,Carens,2022,4,25865,Manual,Diesel,Third,597000
+Mahindra,XUV500,2012,14,150302,Manual,Diesel,First,307000
+Maruti Suzuki,Wagon R,2018,8,108547,Manual,Diesel,First,409000
+Maruti Suzuki,Wagon R,2015,11,126854,Automatic,Petrol,First,249000
+Honda,WR-V,2025,1,6056,Manual,Diesel,First,1182000
+Tata,Tiago,2014,12,134265,Manual,Petrol,Second,136000
+Hyundai,Creta,2013,13,183329,Manual,Electric,Second,189000
+Hyundai,Venue,2020,6,55482,Manual,Petrol,Second,380000
+Toyota,Glanza,2012,14,182353,Manual,Diesel,First,314000
+Honda,Amaze,2024,2,26192,Automatic,Petrol,First,912000
+Hyundai,Venue,2019,7,85101,Manual,Petrol,First,377000
+Tata,Altroz,2019,7,97913,Automatic,Diesel,First,487000
+Maruti Suzuki,Wagon R,2023,3,17073,Manual,Diesel,Second,799000
+Maruti Suzuki,Wagon R,2011,15,197940,Automatic,Diesel,Third,111000
+Hyundai,Verna,2023,3,38010,Automatic,Diesel,Second,958000
+Tata,Punch,2025,1,8889,Automatic,CNG,First,1180000
+Honda,WR-V,2021,5,78062,Manual,Petrol,First,534000
+Renault,Kiger,2024,2,61917,Manual,Petrol,First,400000
+Maruti Suzuki,Wagon R,2015,11,122487,Manual,Petrol,Fourth+,172000
+Mahindra,XUV500,2013,13,115808,Automatic,Petrol,Second,319000
+Maruti Suzuki,Wagon R,2021,5,57652,Automatic,Diesel,Third,614000
+Renault,Kwid,2020,6,97625,Automatic,Petrol,First,378000
+Hyundai,Grand i10,2019,7,88855,Manual,Diesel,Second,320000
+Hyundai,Venue,2012,14,161646,Manual,Petrol,First,121000
+Toyota,Innova,2017,9,139074,Manual,Petrol,First,365000
+Hyundai,i20,2022,4,72464,Manual,Petrol,Second,783000
+Mahindra,XUV500,2019,7,70545,Automatic,Diesel,Second,1012000
+Maruti Suzuki,Wagon R,2015,11,109815,Automatic,Petrol,First,240000
+Maruti Suzuki,Dzire,2014,12,126799,Manual,Petrol,First,139000
+Maruti Suzuki,Brezza,2016,10,93932,Automatic,Diesel,Second,204000
+Mahindra,Scorpio,2013,13,157759,Manual,Petrol,Second,133000
+Hyundai,Venue,2021,5,66258,Automatic,Diesel,First,559000
+Hyundai,Grand i10,2011,15,175814,Automatic,Petrol,Third,95000
+Mahindra,XUV500,2016,10,149007,Manual,Petrol,First,446000
+Hyundai,Venue,2021,5,63932,Manual,Petrol,Third,409000
+Kia,Seltos,2018,8,112114,Manual,Diesel,Third,435000
+Honda,Amaze,2015,11,121000,Manual,Petrol,Second,165000
+Maruti Suzuki,Swift,2025,1,11379,Manual,Petrol,Fourth+,536000
+Maruti Suzuki,Dzire,2017,9,95610,Automatic,Diesel,Second,262000
+Maruti Suzuki,Brezza,2013,13,170645,Automatic,Petrol,Fourth+,86000
+Kia,Sonet,2016,10,110250,Manual,Petrol,First,258000
+Renault,Kwid,2014,12,139285,Automatic,Petrol,Second,139000
+Kia,Carens,2011,15,187331,Automatic,Petrol,First,113000
+Honda,WR-V,2015,11,108094,Manual,Petrol,Second,248000
+Kia,Sonet,2016,10,152999,Manual,Petrol,Third,236000
+Hyundai,Verna,2017,9,109814,Automatic,CNG,First,364000
+Maruti Suzuki,Swift,2013,13,168204,Manual,Diesel,First,133000
+Mahindra,XUV700,2022,4,47669,Manual,Petrol,First,1089000
+Tata,Punch,2015,11,134229,Manual,Diesel,First,292000
+Tata,Altroz,2010,16,192923,Manual,Petrol,First,124000
+Mahindra,Scorpio,2019,7,88444,Automatic,Petrol,Second,446000
+Honda,Jazz,2021,5,46495,Manual,Diesel,Second,675000
+Toyota,Etios,2017,9,110216,Manual,Petrol,Second,339000
+Hyundai,Creta,2010,16,203506,Manual,Petrol,First,129000
+Kia,Carens,2024,2,40081,Manual,Petrol,First,803000
+Hyundai,Verna,2013,13,172978,Automatic,Petrol,First,168000
+Maruti Suzuki,Swift,2015,11,137849,Manual,Petrol,Third,124000
+Mahindra,Scorpio,2011,15,211631,Manual,CNG,First,128000
+Maruti Suzuki,Baleno,2018,8,74253,Automatic,Petrol,Second,391000
+Maruti Suzuki,Wagon R,2012,14,151893,Manual,Diesel,Third,164000
+Kia,Carens,2010,16,166269,Manual,Electric,Second,146000
+Tata,Tiago,2025,1,25675,Manual,Diesel,First,779000
+Maruti Suzuki,Baleno,2023,3,24478,Manual,Diesel,Second,1023000
+Maruti Suzuki,Brezza,2021,5,31920,Manual,Petrol,Second,364000
+Mahindra,Bolero,2022,4,13924,Automatic,Diesel,Second,1736000
+Hyundai,Grand i10,2023,3,49754,Automatic,Petrol,First,651000
+Hyundai,Grand i10,2011,15,173255,Manual,Petrol,Third,75000
+Toyota,Glanza,2025,1,11871,Manual,Petrol,Second,1736000
+Tata,Nexon,2017,9,92122,Automatic,Petrol,First,471000
+Toyota,Fortuner,2021,5,45353,Manual,Diesel,First,1268000
+Renault,Kiger,2011,15,178196,Manual,Petrol,First,70000
+Hyundai,Venue,2014,12,156316,Manual,Petrol,First,159000
+Honda,Jazz,2012,14,153863,Manual,Diesel,First,179000
+Maruti Suzuki,Wagon R,2025,1,17818,Manual,CNG,First,973000
+Tata,Nexon,2015,11,146052,Manual,Diesel,First,301000
+Mahindra,Bolero,2020,6,68825,Manual,Petrol,Second,874000
+Renault,Kwid,2015,11,135567,Manual,Petrol,First,173000
+Maruti Suzuki,Wagon R,2025,1,35907,Manual,Electric,First,1006000
+Toyota,Fortuner,2017,9,100829,Manual,Petrol,First,584000
+Maruti Suzuki,Brezza,2025,1,25852,Automatic,Petrol,First,756000
+Renault,Triber,2011,15,187497,Automatic,CNG,Second,70000
+Toyota,Fortuner,2025,1,43762,Manual,CNG,Second,1225000
+Renault,Kiger,2020,6,55210,Manual,Petrol,Second,291000
+Renault,Kiger,2014,12,144647,Manual,Petrol,Third,92000
+Maruti Suzuki,Brezza,2023,3,56317,Manual,Petrol,Third,437000
+Hyundai,i20,2010,16,191097,Automatic,Diesel,First,142000
+Renault,Kiger,2010,16,145512,Manual,Petrol,First,73000
+Mahindra,Scorpio,2012,14,188292,Manual,Electric,Second,158000
+Maruti Suzuki,Wagon R,2015,11,111935,Manual,Petrol,Second,278000
+Maruti Suzuki,Wagon R,2015,11,153328,Manual,CNG,First,196000
+Honda,Amaze,2021,5,40866,Automatic,Petrol,First,602000
+Tata,Altroz,2021,5,64206,Manual,Petrol,Third,523000
+Renault,Kwid,2017,9,101124,Manual,Petrol,First,229000
+Hyundai,Creta,2013,13,162119,Manual,CNG,Second,134000
+Kia,Carens,2018,8,85529,Automatic,Diesel,Third,364000
+Hyundai,Creta,2015,11,150492,Manual,Diesel,Second,175000
+Hyundai,Grand i10,2025,1,1000,Manual,Petrol,First,935000
+Maruti Suzuki,Dzire,2014,12,108832,Manual,Diesel,First,153000
+Maruti Suzuki,Swift,2016,10,137600,Manual,Diesel,Third,209000
+Tata,Nexon,2020,6,36906,Manual,Electric,First,756000
+Tata,Tiago,2022,4,58075,Manual,Petrol,Second,484000
+Hyundai,Venue,2020,6,106271,Automatic,Diesel,First,354000
+Maruti Suzuki,Brezza,2016,10,136620,Manual,Petrol,First,204000
+Maruti Suzuki,Wagon R,2019,7,62216,Manual,Petrol,First,322000
+Hyundai,Verna,2021,5,86189,Manual,Petrol,First,426000
+Mahindra,XUV700,2024,2,15406,Manual,Petrol,Third,1627000
+Kia,Carens,2013,13,142483,Automatic,CNG,Third,129000
+Maruti Suzuki,Wagon R,2019,7,80133,Manual,Petrol,Second,464000
+Tata,Harrier,2016,10,114525,Manual,Petrol,Second,280000
+Hyundai,Venue,2016,10,139658,Automatic,Petrol,First,191000
+Hyundai,Verna,2015,11,126760,Manual,CNG,First,241000
+Toyota,Glanza,2011,15,192479,Manual,Petrol,First,203000
+Renault,Triber,2016,10,103846,Manual,Petrol,First,219000
+Hyundai,Grand i10,2020,6,74929,Automatic,Diesel,Second,578000
+Toyota,Innova,2015,11,154257,Manual,Petrol,First,414000
+Mahindra,XUV700,2025,1,20446,Manual,Electric,First,1466000
+Renault,Kiger,2024,2,21985,Automatic,Diesel,First,717000
+Honda,WR-V,2012,14,200625,Manual,Petrol,First,135000
+Kia,Sonet,2019,7,79805,Manual,CNG,First,462000
+Tata,Punch,2022,4,39854,Manual,Diesel,Second,807000
+Mahindra,Scorpio,2025,1,25338,Manual,Diesel,Second,910000
+Hyundai,Grand i10,2010,16,162306,Manual,Petrol,First,99000
+Tata,Nexon,2016,10,119691,Manual,Petrol,First,302000
+Maruti Suzuki,Swift,2016,10,87832,Manual,Diesel,Third,224000
+Hyundai,Creta,2022,4,40104,Manual,Diesel,First,716000
+Kia,Carens,2022,4,32307,Manual,Petrol,Second,656000
+Tata,Nexon,2014,12,164218,Automatic,Petrol,Third,187000
+Honda,City,2011,15,172128,Manual,Electric,First,111000
+Hyundai,i20,2011,15,182158,Manual,CNG,First,135000
+Tata,Altroz,2016,10,78389,Automatic,Petrol,First,303000
+Maruti Suzuki,Baleno,2021,5,60238,Manual,Diesel,First,662000
+Maruti Suzuki,Swift,2024,2,42774,Manual,Diesel,Third,536000
+Renault,Kiger,2021,5,102065,Automatic,Petrol,First,352000
+Maruti Suzuki,Wagon R,2020,6,115094,Automatic,Diesel,Second,406000
+Honda,City,2019,7,63285,Manual,Diesel,First,383000
+Maruti Suzuki,Dzire,2022,4,55364,Automatic,Petrol,First,425000
+Hyundai,Creta,2018,8,81512,Automatic,CNG,Second,404000
+Tata,Punch,2016,10,122555,Manual,Diesel,Second,293000
+Tata,Nexon,2016,10,96496,Manual,Petrol,Second,292000
+Mahindra,XUV500,2019,7,56844,Manual,Diesel,Third,725000
+Kia,Seltos,2014,12,166808,Manual,Petrol,Second,261000
+Tata,Tiago,2022,4,68262,Manual,Diesel,Third,284000
+Hyundai,Grand i10,2017,9,127509,Manual,Diesel,Second,230000
+Kia,Sonet,2019,7,81907,Manual,Petrol,Third,356000
+Maruti Suzuki,Baleno,2016,10,121856,Manual,Petrol,First,240000
+Maruti Suzuki,Dzire,2020,6,65159,Manual,Petrol,First,328000
+Maruti Suzuki,Baleno,2021,5,76086,Manual,CNG,First,421000
+Kia,Sonet,2017,9,135381,Manual,Petrol,Second,329000
+Hyundai,i20,2022,4,23323,Manual,Diesel,First,965000
+Maruti Suzuki,Wagon R,2018,8,80238,Manual,Diesel,First,418000
+Honda,Jazz,2010,16,213037,Manual,Petrol,Second,95000
+Mahindra,Bolero,2013,13,183741,Manual,Diesel,Second,316000
+Maruti Suzuki,Baleno,2025,1,8631,Manual,Diesel,First,1052000
+Renault,Kwid,2022,4,14073,Manual,Petrol,First,574000
+Mahindra,Bolero,2012,14,143680,Manual,Diesel,Second,309000
+Hyundai,Venue,2025,1,7780,Manual,Diesel,First,1049000
+Maruti Suzuki,Dzire,2022,4,47929,Manual,CNG,First,436000
+Hyundai,Grand i10,2010,16,222196,Manual,CNG,First,71000
+Mahindra,XUV500,2022,4,56631,Manual,Petrol,Second,1117000
+Honda,Amaze,2016,10,119575,Manual,Diesel,Second,225000
+Honda,WR-V,2010,16,205184,Manual,Diesel,First,116000
+Honda,Amaze,2015,11,147926,Manual,Diesel,First,181000
+Tata,Tiago,2019,7,100637,Manual,Diesel,Second,234000
+Hyundai,Creta,2015,11,127177,Manual,Petrol,Fourth+,224000
+Kia,Sonet,2025,1,9825,Automatic,Petrol,First,1371000
+Renault,Triber,2012,14,166558,Manual,Petrol,First,95000
+Maruti Suzuki,Dzire,2017,9,119706,Automatic,Petrol,Fourth+,141000
+Mahindra,Bolero,2013,13,126368,Manual,Petrol,First,322000
+Maruti Suzuki,Dzire,2010,16,182928,Manual,Petrol,First,70000
+Mahindra,XUV700,2013,13,165488,Manual,Petrol,First,260000
+Hyundai,Verna,2018,8,113593,Automatic,CNG,First,362000
+Maruti Suzuki,Dzire,2014,12,137676,Manual,Petrol,First,107000
+Tata,Tiago,2025,1,19753,Manual,Diesel,Third,484000
+Tata,Altroz,2025,1,22707,Manual,Petrol,Second,1066000
+Kia,Seltos,2020,6,78811,Manual,Electric,Second,718000
+Hyundai,Creta,2020,6,39537,Manual,Diesel,First,764000
+Hyundai,Venue,2010,16,177995,Automatic,Diesel,Second,110000
+Honda,WR-V,2025,1,1000,Manual,Petrol,Third,812000
+Hyundai,Venue,2013,13,144555,Manual,Petrol,Second,150000
+Honda,Jazz,2017,9,127782,Manual,Petrol,First,324000
+Tata,Punch,2025,1,17424,Manual,Petrol,First,1162000
+Tata,Altroz,2022,4,30707,Manual,Petrol,Second,599000
+Maruti Suzuki,Dzire,2020,6,59833,Manual,Petrol,Second,427000
+Maruti Suzuki,Brezza,2019,7,64779,Automatic,CNG,First,304000
+Toyota,Fortuner,2010,16,202260,Manual,Petrol,Second,158000
+Mahindra,XUV700,2021,5,53867,Manual,CNG,First,891000
+Kia,Seltos,2021,5,51296,Manual,Diesel,Second,939000
+Tata,Altroz,2017,9,114954,Automatic,Petrol,Fourth+,298000
+Maruti Suzuki,Brezza,2017,9,142657,Manual,Diesel,Third,199000
+Maruti Suzuki,Swift,2022,4,31197,Manual,Petrol,Fourth+,319000
+Honda,City,2023,3,71578,Manual,Petrol,First,451000
+Honda,City,2023,3,32914,Manual,Petrol,Fourth+,481000
+Mahindra,XUV500,2017,9,120665,Automatic,Petrol,First,509000
+Honda,Jazz,2022,4,53954,Manual,Diesel,Third,617000
+Hyundai,Grand i10,2016,10,113634,Manual,Petrol,First,293000
+Toyota,Fortuner,2021,5,55646,Automatic,Petrol,Third,842000
+Maruti Suzuki,Brezza,2012,14,187790,Manual,Diesel,Fourth+,82000
+Honda,WR-V,2023,3,52885,Manual,Diesel,First,678000
+Mahindra,XUV700,2014,12,149398,Manual,Petrol,Second,204000
+Hyundai,Creta,2015,11,134543,Manual,Petrol,First,242000
+Kia,Seltos,2025,1,13142,Manual,Petrol,First,1554000
+Tata,Altroz,2019,7,62490,Manual,CNG,First,437000
+Tata,Harrier,2019,7,94781,Manual,Petrol,Second,498000
+Mahindra,Scorpio,2021,5,108640,Manual,Petrol,Second,447000
+Hyundai,i20,2015,11,127359,Manual,Petrol,Second,245000
+Hyundai,Venue,2010,16,210769,Manual,Petrol,First,94000
+Toyota,Fortuner,2011,15,161963,Manual,Petrol,First,213000
+Maruti Suzuki,Brezza,2025,1,8124,Manual,Petrol,First,695000
+Maruti Suzuki,Dzire,2020,6,69681,Manual,Petrol,Second,280000
+Hyundai,i20,2012,14,174382,Manual,CNG,First,161000
+Honda,Jazz,2011,15,177382,Manual,Electric,Second,143000
+Maruti Suzuki,Baleno,2012,14,167211,Manual,Petrol,Third,103000
+Mahindra,Bolero,2020,6,50115,Manual,CNG,First,910000
+Maruti Suzuki,Baleno,2024,2,36940,Automatic,Petrol,First,871000
+Hyundai,Grand i10,2023,3,35963,Manual,Diesel,First,670000
+Maruti Suzuki,Baleno,2023,3,10145,Manual,Petrol,Second,1146000
+Renault,Kiger,2017,9,114454,Automatic,Electric,First,279000
+Maruti Suzuki,Brezza,2017,9,125451,Manual,Diesel,Second,196000
+Hyundai,Venue,2011,15,164235,Manual,Petrol,Second,87000
+Maruti Suzuki,Baleno,2020,6,82797,Manual,Petrol,Second,478000
+Honda,Amaze,2021,5,61939,Manual,Petrol,First,448000
+Renault,Triber,2015,11,132377,Manual,Diesel,First,148000
+Honda,WR-V,2021,5,72493,Automatic,CNG,Second,502000
+Honda,Jazz,2013,13,160632,Manual,Petrol,First,161000
+Mahindra,Bolero,2013,13,151714,Manual,Petrol,First,260000
+Hyundai,Venue,2017,9,105389,Automatic,Petrol,Third,247000
+Hyundai,Venue,2011,15,178908,Manual,Diesel,First,92000
+Hyundai,i20,2017,9,108132,Manual,Petrol,Second,316000
+Mahindra,XUV700,2024,2,21161,Automatic,Petrol,Fourth+,1112000
+Hyundai,Venue,2022,4,43952,Manual,Petrol,Third,415000
+Tata,Tiago,2012,14,163045,Manual,Diesel,First,96000
+Maruti Suzuki,Dzire,2018,8,101151,Manual,Petrol,First,195000
+Maruti Suzuki,Brezza,2017,9,113650,Manual,Diesel,First,297000
+Hyundai,Verna,2015,11,141155,Manual,Hybrid,Second,246000
+Maruti Suzuki,Dzire,2024,2,57981,Manual,Diesel,First,706000
+Toyota,Glanza,2020,6,77524,Manual,Petrol,First,1089000
+Honda,Amaze,2021,5,75770,Automatic,Petrol,First,491000
+Maruti Suzuki,Baleno,2016,10,97327,Manual,Petrol,First,239000
+Hyundai,Creta,2023,3,47804,Manual,Diesel,Second,620000
+Hyundai,i20,2012,14,152290,Manual,CNG,First,178000
+Tata,Punch,2019,7,124190,Manual,Petrol,First,355000
+Kia,Seltos,2015,11,103704,Manual,Petrol,Fourth+,252000
+Honda,WR-V,2015,11,138288,Manual,Petrol,Second,146000
+Renault,Triber,2017,9,118884,Automatic,Diesel,First,198000
+Maruti Suzuki,Dzire,2012,14,189843,Automatic,Petrol,Third,84000
+Maruti Suzuki,Dzire,2022,4,37876,Manual,Electric,First,618000
+Honda,Amaze,2017,9,97714,Manual,Diesel,Third,305000
+Renault,Kiger,2021,5,50672,Manual,Petrol,First,394000
+Honda,Amaze,2011,15,168143,Automatic,Petrol,Second,89000
+Tata,Nexon,2017,9,73443,Manual,Petrol,Third,310000
+Toyota,Fortuner,2014,12,114951,Manual,Petrol,Second,335000
+Mahindra,Bolero,2023,3,15048,Automatic,Petrol,First,1361000
+Tata,Nexon,2015,11,127472,Manual,Petrol,Fourth+,171000
+Maruti Suzuki,Dzire,2011,15,145689,Manual,Diesel,First,124000
+Tata,Harrier,2019,7,113145,Manual,Petrol,First,421000
+Hyundai,Verna,2012,14,190473,Manual,Diesel,Third,128000
+Maruti Suzuki,Dzire,2023,3,23713,Manual,Petrol,Third,447000
+Hyundai,Venue,2018,8,72937,Manual,Diesel,First,314000
+Kia,Seltos,2021,5,54303,Automatic,Petrol,Second,610000
+Hyundai,Verna,2018,8,85747,Automatic,Petrol,Second,339000
+Tata,Altroz,2024,2,44981,Manual,Diesel,First,1002000
+Tata,Nexon,2021,5,65300,Manual,Petrol,First,611000
+Tata,Harrier,2022,4,31166,Manual,Petrol,First,816000
+Maruti Suzuki,Wagon R,2013,13,142104,Manual,Petrol,First,165000
+Hyundai,Creta,2021,5,57787,Automatic,Petrol,Second,561000
+Tata,Tiago,2010,16,162897,Automatic,Petrol,Third,70000
+Toyota,Etios,2023,3,41597,Manual,Petrol,Second,745000
+Tata,Tiago,2025,1,1000,Manual,Petrol,First,650000
+Maruti Suzuki,Baleno,2018,8,98915,Manual,Diesel,Second,353000
+Tata,Altroz,2017,9,89009,Manual,Petrol,First,402000
+Tata,Nexon,2014,12,146836,Automatic,Petrol,Second,179000
+Tata,Harrier,2015,11,153429,Manual,Petrol,First,237000
+Maruti Suzuki,Swift,2011,15,177311,Manual,CNG,First,97000
+Tata,Punch,2018,8,124671,Manual,Diesel,Third,365000
+Maruti Suzuki,Brezza,2023,3,36096,Manual,CNG,First,508000
+Honda,Amaze,2013,13,156439,Automatic,Petrol,Fourth+,103000
+Honda,Jazz,2022,4,39009,Manual,Diesel,Second,762000
+Kia,Sonet,2023,3,34320,Manual,Petrol,Third,693000
+Maruti Suzuki,Brezza,2024,2,8846,Manual,Petrol,Second,711000
+Tata,Punch,2016,10,117011,Automatic,Petrol,Second,309000
+Hyundai,Creta,2012,14,163427,Manual,Petrol,Second,160000
+Maruti Suzuki,Baleno,2017,9,98986,Manual,Petrol,Third,233000
+Renault,Triber,2012,14,170276,Manual,Diesel,First,114000
+Tata,Nexon,2018,8,105279,Automatic,Diesel,Fourth+,330000
+Tata,Punch,2012,14,171617,Manual,Petrol,First,165000
+Tata,Harrier,2023,3,58247,Automatic,Petrol,First,682000
+Renault,Kwid,2012,14,154422,Manual,Petrol,Second,86000
+Hyundai,Verna,2020,6,44817,Manual,Diesel,Second,561000
